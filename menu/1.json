@@ -1,0 +1,83 @@
+{
+	"category": "ラーメン",
+	"menu": [
+		{
+			"name": "中華そば",
+			"price": 390,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/1.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4bedc088-0335-4a5a-925e-69ee88ed03b3"
+		},
+		{
+			"name": "汁なしラーメン（油そば）",
+			"price": 570,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/10.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d4b8f9ed-aa1d-4f79-8af0-15b84d67f3c5"
+		},
+		{
+			"name": "五目あんかけラーメン",
+			"price": 630,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/11.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/960a63b6-ad38-443f-a15b-c1cc37c85406"
+		},
+		{
+			"name": "カタヤキソバ【店舗限定】",
+			"price": 630,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/12.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9771d937-5557-4374-b932-63ec727f78ee"
+		},
+		{
+			"name": "半ラーメン",
+			"price": 200,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/13.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a447e8cd-41c1-400d-acad-51082e80ba10"
+		},
+		{
+			"name": "味玉中華そば",
+			"price": 490,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/2.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f431880c-275c-4500-ab9b-9762a1d1dc59"
+		},
+		{
+			"name": "ネギ中華そば",
+			"price": 510,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/3.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/942638da-497b-4cfe-8f2c-085026ec377c"
+		},
+		{
+			"name": "とんこつラーメン",
+			"price": 450,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/4.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/07ea6794-7c43-4ec4-9569-fd0327b2fb13"
+		},
+		{
+			"name": "味玉とんこつラーメン",
+			"price": 550,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/5.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/740200d2-8f2e-4386-96c5-d5c8fea58a85"
+		},
+		{
+			"name": "ピリ辛とんこつネギラーメン",
+			"price": 600,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/6.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/dcc3c257-ad0b-4b02-ac52-447649c39242"
+		},
+		{
+			"name": "野菜たっぷりタンメン（麺少なめ）",
+			"price": 490,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/7.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/45cb0796-c12a-4b3f-a118-a24dee74509a"
+		},
+		{
+			"name": "野菜たっぷりタンメン",
+			"price": 520,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/8.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b61fa4f6-b062-4372-a288-f6ae0bd6c1c1"
+		},
+		{
+			"name": "味噌ラーメン",
+			"price": 540,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1f463078-6d3f-4a6d-af85-2b5f59396363"
+		}
+	]
+}

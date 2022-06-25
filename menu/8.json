@@ -1,0 +1,35 @@
+{
+	"category": "トッピング",
+	"menu": [
+		{
+			"name": "チャーシュー（5枚）",
+			"price": 210,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/65.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1e314428-9ed1-4c3a-9f33-9c85a2b1021c"
+		},
+		{
+			"name": "温泉玉子",
+			"price": 100,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/66.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/abd00fd2-9948-4430-975c-2940208ef811"
+		},
+		{
+			"name": "味付け玉子",
+			"price": 100,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/67.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/70994420-e5d5-4462-92f8-77c4e93bef8e"
+		},
+		{
+			"name": "細切りネギ",
+			"price": 120,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/68.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5f4c1e89-5519-403e-99a3-1eca89fbcd08"
+		},
+		{
+			"name": "メンマ",
+			"price": 130,
+			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/69.html",
+			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e0e84d45-b935-4909-9e20-10833797bcaf"
+		}
+	]
+}

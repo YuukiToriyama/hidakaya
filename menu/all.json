@@ -1,0 +1,542 @@
+[
+	{
+		"name": "中華そば",
+		"price": 390,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/1.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4bedc088-0335-4a5a-925e-69ee88ed03b3"
+	},
+	{
+		"name": "汁なしラーメン（油そば）",
+		"price": 570,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/10.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d4b8f9ed-aa1d-4f79-8af0-15b84d67f3c5"
+	},
+	{
+		"name": "五目あんかけラーメン",
+		"price": 630,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/11.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/960a63b6-ad38-443f-a15b-c1cc37c85406"
+	},
+	{
+		"name": "カタヤキソバ【店舗限定】",
+		"price": 630,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/12.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9771d937-5557-4374-b932-63ec727f78ee"
+	},
+	{
+		"name": "半ラーメン",
+		"price": 200,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/13.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a447e8cd-41c1-400d-acad-51082e80ba10"
+	},
+	{
+		"name": "味玉中華そば",
+		"price": 490,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f431880c-275c-4500-ab9b-9762a1d1dc59"
+	},
+	{
+		"name": "ネギ中華そば",
+		"price": 510,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/3.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/942638da-497b-4cfe-8f2c-085026ec377c"
+	},
+	{
+		"name": "とんこつラーメン",
+		"price": 450,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/4.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/07ea6794-7c43-4ec4-9569-fd0327b2fb13"
+	},
+	{
+		"name": "味玉とんこつラーメン",
+		"price": 550,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/5.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/740200d2-8f2e-4386-96c5-d5c8fea58a85"
+	},
+	{
+		"name": "ピリ辛とんこつネギラーメン",
+		"price": 600,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/6.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/dcc3c257-ad0b-4b02-ac52-447649c39242"
+	},
+	{
+		"name": "野菜たっぷりタンメン（麺少なめ）",
+		"price": 490,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/7.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/45cb0796-c12a-4b3f-a118-a24dee74509a"
+	},
+	{
+		"name": "野菜たっぷりタンメン",
+		"price": 520,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/8.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b61fa4f6-b062-4372-a288-f6ae0bd6c1c1"
+	},
+	{
+		"name": "味噌ラーメン",
+		"price": 540,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1f463078-6d3f-4a6d-af85-2b5f59396363"
+	},
+	{
+		"name": "A半チャーハンセット（中華そば）【店舗限定】",
+		"price": 640,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/164.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ef623eac-a464-4c9b-8f04-b12a259eaaae"
+	},
+	{
+		"name": "A半チャーハンセット（とんこつラーメン）【店舗限定】",
+		"price": 700,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/165.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1d1e7fd3-afec-4968-a8cb-274d0eb7afbf"
+	},
+	{
+		"name": "A半チャーハンセット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 770,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/166.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f4e62cef-c15e-466e-85fc-cabc7c68ed6d"
+	},
+	{
+		"name": "Bやきとり丼セット（中華そば）【店舗限定】",
+		"price": 620,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/167.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f18fb9db-d15b-487d-921d-846375d66f55"
+	},
+	{
+		"name": "Bやきとり丼セット（とんこつラーメン）【店舗限定】",
+		"price": 680,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/168.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b13df80e-f6dc-489b-b3fb-2728bffe5810"
+	},
+	{
+		"name": "Bやきとり丼セット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 750,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/169.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d771eac1-60da-452b-80be-8f38b3c5f28f"
+	},
+	{
+		"name": "ラ・餃・チャセット【店舗限定】",
+		"price": 580,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/17.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6304a5d1-7e0b-4c67-98c6-36da097df6a6"
+	},
+	{
+		"name": "C餃子セット（中華そば）【店舗限定】",
+		"price": 600,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/170.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4bdc62ca-115a-45e5-8cdd-1583b3db4f09"
+	},
+	{
+		"name": "C餃子セット（とんこつラーメン）【店舗限定】",
+		"price": 660,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/171.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/0ffc25aa-2f60-4356-8e25-0dc71db5198d"
+	},
+	{
+		"name": "C餃子セット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 730,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/172.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/46e4efc1-1823-40b0-9dab-bd179da5035a"
+	},
+	{
+		"name": "半チャーハン+餃子セット（中華そば）【店舗限定】",
+		"price": 850,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/173.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/862ec1c0-7096-446d-8ea6-9e4b24933c14"
+	},
+	{
+		"name": "半チャーハン+餃子セット（とんこつラーメン）【店舗限定】",
+		"price": 910,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/174.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ea600fbc-3707-41b8-81dc-45ab0a84897a"
+	},
+	{
+		"name": "半チャーハン+餃子セット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 980,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/175.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1f2d42c8-9029-42f8-add8-1907c411d501"
+	},
+	{
+		"name": "やきとり丼+餃子セット（中華そば）【店舗限定】",
+		"price": 830,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/176.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/60f7cc12-9ad3-47c1-ac69-1ebdd52dbdc3"
+	},
+	{
+		"name": "やきとり丼+餃子セット（とんこつラーメン）【店舗限定】",
+		"price": 890,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/177.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/79f24ea3-2264-4c30-9e66-fe97d41695b9"
+	},
+	{
+		"name": "やきとり丼+餃子セット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 960,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/178.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a50a946b-e4f1-4fc9-92b5-e77585538687"
+	},
+	{
+		"name": "W餃子定食",
+		"price": 670,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/162.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/7c64d22f-d8a1-4c74-8703-681edc5a60c9"
+	},
+	{
+		"name": "野菜炒め定食",
+		"price": 600,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/18.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e4d9ee60-c983-4611-95d0-302559eee118"
+	},
+	{
+		"name": "肉野菜炒め定食",
+		"price": 710,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/20.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b4967153-fdec-47b6-b395-d08dac413bb4"
+	},
+	{
+		"name": "生姜焼き定食",
+		"price": 720,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/22.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/05faae22-7798-460b-9846-cf6bc373f597"
+	},
+	{
+		"name": "唐揚げ定食",
+		"price": 710,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/24.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d5b1a16a-0304-470c-98e6-f4c4a9b4ab7e"
+	},
+	{
+		"name": "バクダン炒め定食",
+		"price": 700,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/26.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ec828fd3-9371-425d-baf7-defe01603863"
+	},
+	{
+		"name": "ニラレバ炒め定食",
+		"price": 680,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/28.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/601000b1-1d3a-4b25-893f-73c2dbb47dfc"
+	},
+	{
+		"name": "キムチ炒飯【店舗限定】",
+		"price": 590,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/135.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5014c151-d890-4ff4-8083-7e17c95e6a1d"
+	},
+	{
+		"name": "キムチ炒飯大盛り【店舗限定】",
+		"price": 700,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/136.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9f7312f0-89f9-430e-b636-a26a4c5a2571"
+	},
+	{
+		"name": "中華丼【店舗限定】",
+		"price": 610,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/147.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/82e0a3f3-1209-4b17-90e4-b9e46ae52cf6"
+	},
+	{
+		"name": "中華丼大盛【店舗限定】",
+		"price": 710,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/148.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/56a3f355-4261-4c64-adaa-a9a02af6bbf5"
+	},
+	{
+		"name": "半チャーハン",
+		"price": 270,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/151.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/29db9765-c51f-4527-96b4-7133530fde18"
+	},
+	{
+		"name": "半ライス",
+		"price": 120,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/152.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c1cd9bad-20c9-48cb-8115-d01cf6444fea"
+	},
+	{
+		"name": "ライス",
+		"price": 180,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/153.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b7f669df-c410-441f-b206-c9d1b5cbd80c"
+	},
+	{
+		"name": "ライス大盛",
+		"price": 240,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/154.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/fa9e55c2-8348-4be6-8f20-ed346bac01d1"
+	},
+	{
+		"name": "やきとり丼",
+		"price": 250,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/155.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1670ac5e-c3cc-4072-b0ab-74eaf7b5f821"
+	},
+	{
+		"name": "野菜炒め単品",
+		"price": 420,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/19.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9544acf5-4b8b-4ef0-b30d-982db1540a01"
+	},
+	{
+		"name": "肉野菜炒め単品",
+		"price": 530,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/21.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a29e9d47-6945-4b6c-a1c0-560f09e644b1"
+	},
+	{
+		"name": "生姜焼き単品",
+		"price": 540,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/23.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/7ca3ed24-fd75-47d8-9e1d-39ab3f66583f"
+	},
+	{
+		"name": "唐揚げ単品",
+		"price": 530,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/25.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d41ce79d-5bdd-46f7-aa37-9774327b3a04"
+	},
+	{
+		"name": "バクダン炒め単品",
+		"price": 520,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/27.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ebb8889d-4d16-49de-be3b-b260a801ed6c"
+	},
+	{
+		"name": "ニラレバ炒め単品",
+		"price": 500,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/29.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b1f5a9be-9901-46ef-b6d1-68e04823c8cc"
+	},
+	{
+		"name": "メンチカツ",
+		"price": 250,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/182.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/daa26666-a633-4c4d-8b59-991b0f91ea65"
+	},
+	{
+		"name": "餃子（6個）",
+		"price": 230,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/30.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1072eae8-352b-4c07-8886-24e170fab80f"
+	},
+	{
+		"name": "餃子（3個）",
+		"price": 130,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/31.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1cd1dc40-5c9b-4457-a7c2-238011f89fff"
+	},
+	{
+		"name": "中華風味付けメンマ",
+		"price": 130,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/32.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9c590b98-4135-45fd-8d18-1ddcb5732cd3"
+	},
+	{
+		"name": "枝豆",
+		"price": 180,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/33.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/7b88bec3-4f7a-49f3-863c-c3f7d711fb64"
+	},
+	{
+		"name": "そら豆",
+		"price": 180,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/34.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/479257f2-d2f1-4a36-9372-397de13370b5"
+	},
+	{
+		"name": "白菜キムチ",
+		"price": 180,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/35.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1bb9990d-a04c-409c-a8a2-6f8dc71d8c34"
+	},
+	{
+		"name": "やきとり（ネギ和え）",
+		"price": 180,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/36.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/98c0500b-19d7-4c30-8a63-eefe23216cd0"
+	},
+	{
+		"name": "マカロニサラダ",
+		"price": 200,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/38.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/04f94069-abed-45ac-bdac-4925d8f24aa8"
+	},
+	{
+		"name": "粗挽きウィンナー",
+		"price": 250,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/39.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8eff17c7-0564-47bd-abe8-49ec0bf00761"
+	},
+	{
+		"name": "冷奴",
+		"price": 210,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/40.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/56a91aff-3429-411f-84b4-07b37b108ade"
+	},
+	{
+		"name": "三品盛合わせ（メンマ･キムチ･やきとりネギ和え）",
+		"price": 310,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/41.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/050058f8-222e-469e-b2bf-9460f2b6ab88"
+	},
+	{
+		"name": "イカ揚げ",
+		"price": 280,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/42.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/cb8f49d1-40f9-4ed0-b5c9-9683c35ffbc3"
+	},
+	{
+		"name": "チーズ巻き",
+		"price": 250,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/44.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6132b7d4-c1eb-464f-945e-99bcf4117265"
+	},
+	{
+		"name": "おつまみ唐揚げ",
+		"price": 250,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/45.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/462d4b87-70ec-425b-8176-9e08908dff4f"
+	},
+	{
+		"name": "皮付きポテトフライ",
+		"price": 210,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/46.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/305cd192-809e-4b8e-8ece-e241f789ebe6"
+	},
+	{
+		"name": "イワシフライ",
+		"price": 240,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/47.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b2942e0c-6700-4662-a9d5-c8d2ec098f50"
+	},
+	{
+		"name": "五目春巻き",
+		"price": 290,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/48.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/40b01469-09a9-48b8-a2ca-bc131e7388f8"
+	},
+	{
+		"name": "日本酒",
+		"price": 320,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/2222.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/59e4d9cd-992b-498f-b87e-2ff2970b689e"
+	},
+	{
+		"name": "キリン一番絞り（生）中瓶",
+		"price": 450,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/49.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/93f5062a-7769-4bdb-b17f-0a44c00194cd"
+	},
+	{
+		"name": "ハイボール",
+		"price": 290,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/50.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ee6c295f-cc0a-4db8-ac70-302a5ae30c06"
+	},
+	{
+		"name": "ホッピーセット",
+		"price": 400,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/51.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ec783fbb-cb7c-4a39-90b1-ba4356184d6b"
+	},
+	{
+		"name": "生冷酒",
+		"price": 380,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/52.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e5defefe-8870-4cd1-baa4-974f6ee51ab2"
+	},
+	{
+		"name": "吟醸ロック酒20度",
+		"price": 400,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/53.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/226658ce-0330-4f59-b789-e89ebfdc075c"
+	},
+	{
+		"name": "レモンサワー",
+		"price": 290,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/55.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/715cb732-0cde-463c-89dd-c3f69394886c"
+	},
+	{
+		"name": "ウーロンハイ",
+		"price": 290,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/56.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9f511dae-c2af-40e0-b64b-e2a99e0ceace"
+	},
+	{
+		"name": "緑茶ハイ",
+		"price": 290,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/57.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/59b13895-78cf-4caa-b3dc-faca6617038c"
+	},
+	{
+		"name": "ウォッカ（お湯･水･ソーダ）割り",
+		"price": 270,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/58.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/be42cd04-99cb-4428-abd9-2433e1fe989f"
+	},
+	{
+		"name": "からだすこやか茶W",
+		"price": 180,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/59.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6f70a15c-d277-4c69-af57-f9cbede3a4ed"
+	},
+	{
+		"name": "コカ・コーラ",
+		"price": 110,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/60.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a2735961-4573-408f-a7d1-2731c92c6bb9"
+	},
+	{
+		"name": "キリン一番絞り（生）ジョッキ",
+		"price": 290,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/61.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/2aaff1f4-16fc-482a-8845-eb843af051a9"
+	},
+	{
+		"name": "冷凍業務用生ぎょうざ30入",
+		"price": 600,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/62.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/2d04f550-8fe2-4b2a-871e-39ab870ae5fe"
+	},
+	{
+		"name": "冷凍照焼きチキン500g",
+		"price": 690,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/63.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/fa6bc9bd-32b0-46d1-892d-43b49ba632c0"
+	},
+	{
+		"name": "若鶏唐揚げ1kg",
+		"price": 980,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/64.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d7508bb2-b364-42aa-81fa-6bd47d8be5e5"
+	},
+	{
+		"name": "チャーシュー（5枚）",
+		"price": 210,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/65.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1e314428-9ed1-4c3a-9f33-9c85a2b1021c"
+	},
+	{
+		"name": "温泉玉子",
+		"price": 100,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/66.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/abd00fd2-9948-4430-975c-2940208ef811"
+	},
+	{
+		"name": "味付け玉子",
+		"price": 100,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/67.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/70994420-e5d5-4462-92f8-77c4e93bef8e"
+	},
+	{
+		"name": "細切りネギ",
+		"price": 120,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/68.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5f4c1e89-5519-403e-99a3-1eca89fbcd08"
+	},
+	{
+		"name": "メンマ",
+		"price": 130,
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/69.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e0e84d45-b935-4909-9e20-10833797bcaf"
+	}
+]

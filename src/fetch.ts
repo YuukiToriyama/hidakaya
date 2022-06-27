@@ -52,12 +52,12 @@ export const fetchShopList = async () => {
 	for (let i = 0; i < ul.childElementCount; i++) {
 		const li = ul.children[i];
 		const a = li.getElementsByTagName("a")[0];
-		const name = a.innerHTML;
+		const name = a.innerHTML.replace(/\s+/g, "").replace(/(<([^>]+)>)/gi, ''); // 空白文字の削除&<span>タグの削除
 		const href = a.href;
 		const id = href.match(/(\d+).html$/)[1];
 		shopList.push({
-			name: a.innerHTML,
-			href: a.href,
+			name: name,
+			href: href,
 			id: parseInt(id),
 		});
 	}
@@ -92,7 +92,7 @@ export const fetchShopInfo = async (shopId: number): Promise<Shop> => {
 		const columnName = cells[0].innerHTML.trim();
 		const columnData = cells[1].innerHTML.trim();
 		if (columnName.includes("所在地")) {
-			shop.address = columnData;
+			shop.address = columnData.replace(/\s+/, "");
 		} else if (columnName.includes("TEL")) {
 			shop.tel = columnData;
 		} else if (columnName.includes("開店時間")) {

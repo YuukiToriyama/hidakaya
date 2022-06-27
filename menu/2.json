@@ -1,101 +1,114 @@
-{
-	"category": "セット",
-	"menu": [
-		{
-			"name": "A半チャーハンセット（中華そば）【店舗限定】",
-			"price": 640,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/164.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ef623eac-a464-4c9b-8f04-b12a259eaaae"
-		},
-		{
-			"name": "A半チャーハンセット（とんこつラーメン）【店舗限定】",
-			"price": 700,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/165.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1d1e7fd3-afec-4968-a8cb-274d0eb7afbf"
-		},
-		{
-			"name": "A半チャーハンセット（野菜たっぷりタンメン）【店舗限定】",
-			"price": 770,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/166.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f4e62cef-c15e-466e-85fc-cabc7c68ed6d"
-		},
-		{
-			"name": "Bやきとり丼セット（中華そば）【店舗限定】",
-			"price": 620,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/167.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f18fb9db-d15b-487d-921d-846375d66f55"
-		},
-		{
-			"name": "Bやきとり丼セット（とんこつラーメン）【店舗限定】",
-			"price": 680,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/168.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b13df80e-f6dc-489b-b3fb-2728bffe5810"
-		},
-		{
-			"name": "Bやきとり丼セット（野菜たっぷりタンメン）【店舗限定】",
-			"price": 750,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/169.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d771eac1-60da-452b-80be-8f38b3c5f28f"
-		},
-		{
-			"name": "ラ・餃・チャセット【店舗限定】",
-			"price": 580,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/17.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6304a5d1-7e0b-4c67-98c6-36da097df6a6"
-		},
-		{
-			"name": "C餃子セット（中華そば）【店舗限定】",
-			"price": 600,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/170.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4bdc62ca-115a-45e5-8cdd-1583b3db4f09"
-		},
-		{
-			"name": "C餃子セット（とんこつラーメン）【店舗限定】",
-			"price": 660,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/171.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/0ffc25aa-2f60-4356-8e25-0dc71db5198d"
-		},
-		{
-			"name": "C餃子セット（野菜たっぷりタンメン）【店舗限定】",
-			"price": 730,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/172.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/46e4efc1-1823-40b0-9dab-bd179da5035a"
-		},
-		{
-			"name": "半チャーハン+餃子セット（中華そば）【店舗限定】",
-			"price": 850,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/173.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/862ec1c0-7096-446d-8ea6-9e4b24933c14"
-		},
-		{
-			"name": "半チャーハン+餃子セット（とんこつラーメン）【店舗限定】",
-			"price": 910,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/174.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ea600fbc-3707-41b8-81dc-45ab0a84897a"
-		},
-		{
-			"name": "半チャーハン+餃子セット（野菜たっぷりタンメン）【店舗限定】",
-			"price": 980,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/175.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1f2d42c8-9029-42f8-add8-1907c411d501"
-		},
-		{
-			"name": "やきとり丼+餃子セット（中華そば）【店舗限定】",
-			"price": 830,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/176.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/60f7cc12-9ad3-47c1-ac69-1ebdd52dbdc3"
-		},
-		{
-			"name": "やきとり丼+餃子セット（とんこつラーメン）【店舗限定】",
-			"price": 890,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/177.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/79f24ea3-2264-4c30-9e66-fe97d41695b9"
-		},
-		{
-			"name": "やきとり丼+餃子セット（野菜たっぷりタンメン）【店舗限定】",
-			"price": 960,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/178.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a50a946b-e4f1-4fc9-92b5-e77585538687"
-		}
-	]
-}
+[
+	{
+		"name": "A半チャーハンセット（中華そば）【店舗限定】",
+		"price": 640,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/164.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ef623eac-a464-4c9b-8f04-b12a259eaaae"
+	},
+	{
+		"name": "A半チャーハンセット（とんこつラーメン）【店舗限定】",
+		"price": 700,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/165.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1d1e7fd3-afec-4968-a8cb-274d0eb7afbf"
+	},
+	{
+		"name": "A半チャーハンセット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 770,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/166.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f4e62cef-c15e-466e-85fc-cabc7c68ed6d"
+	},
+	{
+		"name": "Bやきとり丼セット（中華そば）【店舗限定】",
+		"price": 620,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/167.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f18fb9db-d15b-487d-921d-846375d66f55"
+	},
+	{
+		"name": "Bやきとり丼セット（とんこつラーメン）【店舗限定】",
+		"price": 680,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/168.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b13df80e-f6dc-489b-b3fb-2728bffe5810"
+	},
+	{
+		"name": "Bやきとり丼セット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 750,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/169.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d771eac1-60da-452b-80be-8f38b3c5f28f"
+	},
+	{
+		"name": "ラ・餃・チャセット【店舗限定】",
+		"price": 580,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/17.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6304a5d1-7e0b-4c67-98c6-36da097df6a6"
+	},
+	{
+		"name": "C餃子セット（中華そば）【店舗限定】",
+		"price": 600,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/170.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4bdc62ca-115a-45e5-8cdd-1583b3db4f09"
+	},
+	{
+		"name": "C餃子セット（とんこつラーメン）【店舗限定】",
+		"price": 660,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/171.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/0ffc25aa-2f60-4356-8e25-0dc71db5198d"
+	},
+	{
+		"name": "C餃子セット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 730,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/172.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/46e4efc1-1823-40b0-9dab-bd179da5035a"
+	},
+	{
+		"name": "半チャーハン+餃子セット（中華そば）【店舗限定】",
+		"price": 850,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/173.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/862ec1c0-7096-446d-8ea6-9e4b24933c14"
+	},
+	{
+		"name": "半チャーハン+餃子セット（とんこつラーメン）【店舗限定】",
+		"price": 910,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/174.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ea600fbc-3707-41b8-81dc-45ab0a84897a"
+	},
+	{
+		"name": "半チャーハン+餃子セット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 980,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/175.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1f2d42c8-9029-42f8-add8-1907c411d501"
+	},
+	{
+		"name": "やきとり丼+餃子セット（中華そば）【店舗限定】",
+		"price": 830,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/176.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/60f7cc12-9ad3-47c1-ac69-1ebdd52dbdc3"
+	},
+	{
+		"name": "やきとり丼+餃子セット（とんこつラーメン）【店舗限定】",
+		"price": 890,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/177.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/79f24ea3-2264-4c30-9e66-fe97d41695b9"
+	},
+	{
+		"name": "やきとり丼+餃子セット（野菜たっぷりタンメン）【店舗限定】",
+		"price": 960,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/178.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a50a946b-e4f1-4fc9-92b5-e77585538687"
+	}
+]

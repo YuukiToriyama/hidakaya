@@ -1,23 +1,23 @@
-{
-	"category": "テイクアウト",
-	"menu": [
-		{
-			"name": "冷凍業務用生ぎょうざ30入",
-			"price": 600,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/62.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/2d04f550-8fe2-4b2a-871e-39ab870ae5fe"
-		},
-		{
-			"name": "冷凍照焼きチキン500g",
-			"price": 690,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/63.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/fa6bc9bd-32b0-46d1-892d-43b49ba632c0"
-		},
-		{
-			"name": "若鶏唐揚げ1kg",
-			"price": 980,
-			"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/64.html",
-			"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d7508bb2-b364-42aa-81fa-6bd47d8be5e5"
-		}
-	]
-}
+[
+	{
+		"name": "冷凍業務用生ぎょうざ30入",
+		"price": 600,
+		"category": "テイクアウト",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/62.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/2d04f550-8fe2-4b2a-871e-39ab870ae5fe"
+	},
+	{
+		"name": "冷凍照焼きチキン500g",
+		"price": 690,
+		"category": "テイクアウト",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/63.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/fa6bc9bd-32b0-46d1-892d-43b49ba632c0"
+	},
+	{
+		"name": "若鶏唐揚げ1kg",
+		"price": 980,
+		"category": "テイクアウト",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/64.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d7508bb2-b364-42aa-81fa-6bd47d8be5e5"
+	}
+]

@@ -5,13 +5,13 @@ import { Shop } from "./Model/Shop";
 /**
  * メニュー一覧ページからメニューをスクレイピングする
  * @param url メニューページのURL
- * @returns カテゴリ名とメニューの一覧
+ * @returns メニュー一覧
  */
-export const fetchMenu = async (url: string) => {
+export const fetchMenuList = async (url: string) => {
 	let menuList: Menu[] = [];
 	const jsdom = await JSDOM.fromURL(url);
 	const article = jsdom.window.document.getElementsByClassName("art01")[0];
-	const title = (
+	const category = (
 		article.getElementsByClassName("tit03")[0] as HTMLHeadingElement
 	).innerHTML;
 	const ul = article.getElementsByClassName("box01")[0];
@@ -25,14 +25,12 @@ export const fetchMenu = async (url: string) => {
 		menuList.push({
 			name: name,
 			price: parseInt(price),
+			category: category,
 			href: href,
 			thumbnail: thumbnail,
 		});
 	}
-	return {
-		category: title,
-		menu: menuList,
-	};
+	return menuList
 };
 
 /**

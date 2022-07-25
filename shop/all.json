@@ -305,6 +305,11 @@
 		"id": 393
 	},
 	{
+		"name": "日高屋大宮ＤＯＭ店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/85.html",
+		"id": 85
+	},
+	{
 		"name": "日高屋小田急マルシェ永山店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/322.html",
 		"id": 322
@@ -353,11 +358,6 @@
 		"name": "日高屋大宮西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/19.html",
 		"id": 19
-	},
-	{
-		"name": "日高屋大宮ＤＯＭ店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/85.html",
-		"id": 85
 	},
 	{
 		"name": "日高屋大宮三橋店",
@@ -2008,6 +2008,11 @@
 		"name": "日高屋早稲田西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/417.html",
 		"id": 417
+	},
+	{
+		"name": "屋台料理台南大宮門街店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/599.html",
+		"id": 599
 	},
 	{
 		"name": "来来軒赤羽店",

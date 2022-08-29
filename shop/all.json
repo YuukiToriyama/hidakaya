@@ -665,11 +665,6 @@
 		"id": 8
 	},
 	{
-		"name": "日高屋北浦和店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/73.html",
-		"id": 73
-	},
-	{
 		"name": "日高屋北戸田店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/207.html",
 		"id": 207
@@ -1783,6 +1778,11 @@
 		"name": "日高屋町屋店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/257.html",
 		"id": 257
+	},
+	{
+		"name": "日高屋大宮三橋６丁目店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/602.html",
+		"id": 602
 	},
 	{
 		"name": "日高屋溝の口Ｑｉｚ店",

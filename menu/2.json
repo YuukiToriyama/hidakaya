@@ -1,7 +1,7 @@
 [
 	{
 		"name": "A半チャーハンセット（中華そば）【店舗限定】",
-		"price": 640,
+		"price": 700,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/164_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ef623eac-a464-4c9b-8f04-b12a259eaaae"
@@ -57,14 +57,14 @@
 	},
 	{
 		"name": "ラ餃チャセット【店舗限定】",
-		"price": 580,
+		"price": 630,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/17_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6304a5d1-7e0b-4c67-98c6-36da097df6a6"
 	},
 	{
 		"name": "C餃子セット（野菜たっぷりタンメン）【店舗限定】",
-		"price": 730,
+		"price": 790,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/172_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/46e4efc1-1823-40b0-9dab-bd179da5035a"

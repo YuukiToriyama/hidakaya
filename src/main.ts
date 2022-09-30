@@ -1,9 +1,10 @@
 import * as fs from "fs/promises";
+import { CategoryDAO } from './Database/CategoryDAO';
+import { DAO } from './Database/DAO';
+import { MenuDAO } from './Database/MenuDAO';
+import { ShopDAO } from './Database/ShopDAO';
 import { fetchMenuList, fetchShopInfo, fetchShopList } from "./fetch";
 import { Menu } from "./Model/Menu";
-import { DAO } from './Database/DAO'
-import { MenuDAO } from './Database/MenuDAO'
-import { ShopDAO } from './Database/ShopDAO';
 
 (async () => {
 	// ディレクトリを作成
@@ -31,6 +32,10 @@ import { ShopDAO } from './Database/ShopDAO';
 	await menuDAO.createTable();
 	await menuDAO.insert(menuList);
 	await menuDAO.close();
+	// 4. hidakaya.dbにcategoryテーブルを作成
+	const categoryDAO = new CategoryDAO(connection);
+	await categoryDAO.createTable();
+	await categoryDAO.close();
 
 	// 店舗一覧を取得
 	// 1. 店舗一覧JSONを作成

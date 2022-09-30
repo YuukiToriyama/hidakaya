@@ -1,5 +1,6 @@
 import * as sqlite3 from 'sqlite3';
-import { Menu } from "../Model/Menu"
+import { categories } from '../Model/Category';
+import { Menu } from "../Model/Menu";
 
 export class MenuDAO {
 	private connection: sqlite3.Database;
@@ -10,7 +11,7 @@ export class MenuDAO {
 
 	public async createTable(): Promise<void> {
 		return new Promise((resolve, reject) => {
-			this.connection.run("CREATE TABLE IF NOT EXISTS menu (id INTEGER PRIMARY KEY, name TEXT, price INTEGER, category TEXT, href TEXT, thumbnail TEXT)", error => {
+			this.connection.run("CREATE TABLE IF NOT EXISTS menu (id INTEGER PRIMARY KEY, name TEXT, price INTEGER, category INTEGER, href TEXT, thumbnail TEXT)", error => {
 				reject(error);
 			});
 			resolve();
@@ -21,8 +22,9 @@ export class MenuDAO {
 		return new Promise(resolve => {
 			this.connection.serialize(() => {
 				menuList.forEach((menu, index) => {
+					const categoryId = categories.filter(category => category.name == menu.category)[0].id;
 					const statement = this.connection.prepare("INSERT INTO menu VALUES (?, ?, ?, ?, ?, ?)")
-					statement.run([index + 1, menu.name, menu.price, menu.category, menu.href, menu.thumbnail])
+					statement.run([index + 1, menu.name, menu.price, categoryId, menu.href, menu.thumbnail])
 				})
 			});
 			resolve();

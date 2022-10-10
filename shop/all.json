@@ -490,14 +490,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -1145,6 +1145,11 @@
 		"id": 442
 	},
 	{
+		"name": "日高屋草加マルイ店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/585.html",
+		"id": 585
+	},
+	{
 		"name": "日高屋草加西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/499.html",
 		"id": 499
@@ -1580,6 +1585,11 @@
 		"id": 334
 	},
 	{
+		"name": "日高屋浜松町北口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/605.html",
+		"id": 605
+	},
+	{
 		"name": "日高屋白楽店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/446.html",
 		"id": 446
@@ -1713,11 +1723,6 @@
 		"name": "日高屋二俣川南口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/359.html",
 		"id": 359
-	},
-	{
-		"name": "日高屋藤沢北口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/375.html",
-		"id": 375
 	},
 	{
 		"name": "日高屋平和島駅前店",
@@ -2203,11 +2208,6 @@
 		"name": "神寄巣鴨地蔵通店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/555.html",
 		"id": 555
-	},
-	{
-		"name": "中華食堂真心草加マルイ店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/585.html",
-		"id": 585
 	},
 	{
 		"name": "大衆酒場HIDAKA鶴見西口店",

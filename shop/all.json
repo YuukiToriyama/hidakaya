@@ -260,6 +260,11 @@
 		"id": 413
 	},
 	{
+		"name": "日高屋エキア新柏東口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/606.html",
+		"id": 606
+	},
+	{
 		"name": "日高屋エキア東武動物公園駅店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/190.html",
 		"id": 190
@@ -490,14 +495,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -1960,6 +1965,11 @@
 		"id": 244
 	},
 	{
+		"name": "日高屋四ツ谷店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/556.html",
+		"id": 556
+	},
+	{
 		"name": "日高屋四谷三丁目店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/260.html",
 		"id": 260
@@ -2218,10 +2228,5 @@
 		"name": "ちょいのみ日高屋大和中央通店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/457.html",
 		"id": 457
-	},
-	{
-		"name": "炒爆中華食堂真心四ツ谷店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/556.html",
-		"id": 556
 	}
 ]

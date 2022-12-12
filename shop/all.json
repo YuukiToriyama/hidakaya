@@ -220,6 +220,11 @@
 		"id": 435
 	},
 	{
+		"name": "日高屋ｳｨﾝｸﾞｷｯﾁﾝ金沢八景店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/607.html",
+		"id": 607
+	},
+	{
 		"name": "日高屋浦和町谷店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/155.html",
 		"id": 155
@@ -253,6 +258,11 @@
 		"name": "日高屋梅島駅前店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/390.html",
 		"id": 390
+	},
+	{
+		"name": "日高屋牛久西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/608.html",
+		"id": 608
 	},
 	{
 		"name": "日高屋エルミ鴻巣店",
@@ -490,14 +500,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅東口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
-		"id": 188
-	},
-	{
 		"name": "日高屋川口駅西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
 		"id": 197
+	},
+	{
+		"name": "日高屋川口駅東口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
+		"id": 188
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -2078,6 +2088,11 @@
 		"name": "焼鳥日高大宮一番街店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/266.html",
 		"id": 266
+	},
+	{
+		"name": "焼鳥日高大宮西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/17.html",
+		"id": 17
 	},
 	{
 		"name": "焼鳥日高王子北口店",

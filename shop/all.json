@@ -505,14 +505,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -2153,11 +2153,6 @@
 		"name": "焼鳥日高戸田公園駅店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/295.html",
 		"id": 295
-	},
-	{
-		"name": "焼鳥日高獨協大学前駅東口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/474.html",
-		"id": 474
 	},
 	{
 		"name": "焼鳥日高中井駅前店",

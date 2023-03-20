@@ -260,11 +260,6 @@
 		"id": 308
 	},
 	{
-		"name": "日高屋梅島駅前店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/390.html",
-		"id": 390
-	},
-	{
 		"name": "日高屋牛久西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/608.html",
 		"id": 608
@@ -505,14 +500,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",

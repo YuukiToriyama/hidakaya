@@ -500,14 +500,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -908,6 +908,11 @@
 		"name": "日高屋さいたま新都心店（けやき広場側）",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/74.html",
 		"id": 74
+	},
+	{
+		"name": "日高屋相模原ラクーン店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/613.html",
+		"id": 613
 	},
 	{
 		"name": "日高屋坂戸北口店",

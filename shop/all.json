@@ -130,6 +130,11 @@
 		"id": 609
 	},
 	{
+		"name": "日高屋板橋区役所前仲宿",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/614.html",
+		"id": 614
+	},
+	{
 		"name": "日高屋ｲｵﾝﾀｳﾝふじみ野店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/569.html",
 		"id": 569
@@ -500,14 +505,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅東口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
-		"id": 188
-	},
-	{
 		"name": "日高屋川口駅西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
 		"id": 197
+	},
+	{
+		"name": "日高屋川口駅東口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
+		"id": 188
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -1420,6 +1425,11 @@
 		"id": 441
 	},
 	{
+		"name": "日高屋成田ウイング土屋店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/615.html",
+		"id": 615
+	},
+	{
 		"name": "日高屋成田東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/543.html",
 		"id": 543
@@ -2148,11 +2158,6 @@
 		"name": "焼鳥日高戸田公園駅店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/295.html",
 		"id": 295
-	},
-	{
-		"name": "焼鳥日高中井駅前店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/395.html",
-		"id": 395
 	},
 	{
 		"name": "焼鳥日高成増南口店",

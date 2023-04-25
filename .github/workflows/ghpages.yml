@@ -26,11 +26,17 @@ jobs:
       - name: Build files
         run: node dist/main.js
 
+      - name: Prepare commit message
+        id: prepare_commit_message
+        run: |
+          date "+%Y-%m-%d %H:%M:%S" | sed 's/.*/COMMIT_MESSAGE="&"/' >> "${GITHUB_OUTPUT}"
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: ${{ steps.prepare_commit_message.outputs.COMMIT_MESSAGE }}
           publish_branch: gh-pages-sandbox # 実装完了後に除却する
           publish_dir: ./output

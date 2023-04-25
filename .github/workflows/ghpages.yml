@@ -31,4 +31,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: gh-pages-sandbox # 実装完了後に除却する
         publish_dir: ./output

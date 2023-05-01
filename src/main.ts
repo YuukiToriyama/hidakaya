@@ -41,8 +41,8 @@ import { Menu } from './Model/Menu';
 	// 1. 店舗一覧JSONを作成
 	// 2. 各店舗の情報を持ったJSONを作成
 	// 3. hidakaya.dbにshopテーブルを作成
-	    const shopList = await fetchShopList()
-	const shopDAO = new ShopDAO(connection);
+	const shopList = await fetchShopList()
+	const shopDAO = new ShopDAO(connection)
 	await shopDAO.createTable()
 	await writeJSONFile('./output/shop/all.json', shopList)
 	const taskList = shopList.map(shop => (async()=> {
@@ -51,7 +51,7 @@ import { Menu } from './Model/Menu';
 		await writeJSONFile(fileName, shopInfo)
 		await shopDAO.insert(shopInfo)
 	})())
-			await Promise.all(taskList)
+	await Promise.all(taskList)
 	await shopDAO.close()
 
 	connection.close()

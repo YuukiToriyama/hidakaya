@@ -57,7 +57,7 @@ import { Menu } from './Model/Menu';
 	connection.close()
 })()
 
-const writeJSONFile = async (fileName: string, object: Object) => {
+const writeJSONFile = async (fileName: string, object: unknown) => {
 	const json = JSON.stringify(object, null, '\t')
 	const byteLength = Buffer.byteLength(json)
 	await fs.writeFile(fileName, json)

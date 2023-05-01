@@ -1,9 +1,9 @@
-import * as sqlite3 from 'sqlite3';
+import * as sqlite3 from 'sqlite3'
 
 export class DAO {
-	public connection: sqlite3.Database;
+	public connection: sqlite3.Database
 
 	constructor(dbName: string) {
-		this.connection = new sqlite3.Database(dbName);
+		this.connection = new sqlite3.Database(dbName)
 	}
 }

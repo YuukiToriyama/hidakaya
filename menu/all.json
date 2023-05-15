@@ -28,6 +28,27 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a447e8cd-41c1-400d-acad-51082e80ba10"
 	},
 	{
+		"name": "麻婆麺",
+		"price": 660,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/211_011.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/0bf7e584-9bac-4d1e-8f74-e62399cfd41b"
+	},
+	{
+		"name": "ワンタン麺",
+		"price": 650,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/212_011.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/583ac738-4b0b-44f9-a5bb-08de7cf557df"
+	},
+	{
+		"name": "塩焼きそば",
+		"price": 600,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/213_011.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e72be314-200a-4987-9f5e-d8a2284b296a"
+	},
+	{
 		"name": "とんこつラーメン",
 		"price": 480,
 		"category": "ラーメン",
@@ -96,6 +117,34 @@
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/20_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b4967153-fdec-47b6-b395-d08dac413bb4"
+	},
+	{
+		"name": "麻婆豆腐定食",
+		"price": 750,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/207_021.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d3a5a56e-1bf8-4c3a-bc58-d2dc893b627f"
+	},
+	{
+		"name": "青椒肉絲定食",
+		"price": 750,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/208_021.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/74da277f-e6f7-4f6d-802f-55bf36776239"
+	},
+	{
+		"name": "回鍋肉定食",
+		"price": 780,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/209_021.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b501ab99-21a3-4060-a507-333cda61233b"
+	},
+	{
+		"name": "玉子とキクラゲ炒め定食",
+		"price": 700,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_021.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/174e5ccd-be33-470d-8aa0-fd909a2a23f1"
 	},
 	{
 		"name": "生姜焼き定食",
@@ -187,6 +236,34 @@
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/196_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4c183d4d-fdf7-4c11-b394-580c327bb74d"
+	},
+	{
+		"name": "麻婆豆腐",
+		"price": 560,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/207_011.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c3907159-2ab7-4445-8cbe-b5c56d9e51d6"
+	},
+	{
+		"name": "青椒肉絲",
+		"price": 560,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/208_011.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/259c36fa-3cbe-47eb-930e-da561604dfb6"
+	},
+	{
+		"name": "回鍋肉",
+		"price": 590,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/209_011.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5f8eb2ea-4050-4166-bd3c-9a93412e69d4"
+	},
+	{
+		"name": "玉子とキクラゲ炒め",
+		"price": 510,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_011.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bd223449-673d-42c9-b668-d03d19075293"
 	},
 	{
 		"name": "肉野菜炒め単品",

@@ -505,14 +505,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -1133,6 +1133,11 @@
 		"name": "日高屋巣鴨北口駅前店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/502.html",
 		"id": 502
+	},
+	{
+		"name": "日高屋巣鴨地蔵通店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/555.html",
+		"id": 555
 	},
 	{
 		"name": "日高屋西武新宿前北店",
@@ -2228,11 +2233,6 @@
 		"name": "中華一番大宮東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/28.html",
 		"id": 28
-	},
-	{
-		"name": "神寄巣鴨地蔵通店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/555.html",
-		"id": 555
 	},
 	{
 		"name": "大衆酒場HIDAKA鶴見西口店",

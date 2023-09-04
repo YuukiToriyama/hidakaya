@@ -21,6 +21,7 @@
     "homepage": "https://github.com/YUUKIToriyama/hidakaya#readme",
     "devDependencies": {
         "@types/jsdom": "^16.2.14",
+        "@types/node": "^20.5.9",
         "@types/sqlite3": "^3.1.8",
         "@typescript-eslint/eslint-plugin": "^6.5.0",
         "@typescript-eslint/parser": "^6.5.0",

@@ -49,11 +49,32 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e72be314-200a-4987-9f5e-d8a2284b296a"
 	},
 	{
+		"name": "温玉旨辛ラーメン",
+		"price": 690,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/216_021.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b592ae75-2590-4ccf-84ec-c5b52a4febe0"
+	},
+	{
+		"name": "味玉中華そば",
+		"price": 540,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/2_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f431880c-275c-4500-ab9b-9762a1d1dc59"
+	},
+	{
 		"name": "とんこつラーメン",
 		"price": 480,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/4_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/07ea6794-7c43-4ec4-9569-fd0327b2fb13"
+	},
+	{
+		"name": "味玉とんこつラーメン",
+		"price": 580,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/5_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/740200d2-8f2e-4386-96c5-d5c8fea58a85"
 	},
 	{
 		"name": "ピリ辛とんこつネギラーメン",

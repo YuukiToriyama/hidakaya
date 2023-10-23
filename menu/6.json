@@ -1,14 +1,14 @@
 [
 	{
 		"name": "おかわりウォッカ（中）",
-		"price": 240,
+		"price": 250,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/193_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/46b3bbf3-f71c-4237-b3d5-f4d1ea89001f"
 	},
 	{
 		"name": "ホッピー（外）",
-		"price": 180,
+		"price": 190,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/194_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8c874d34-3969-4222-bfa2-38d4fcf0af0d"
@@ -99,7 +99,7 @@
 	},
 	{
 		"name": "コカ・コーラ",
-		"price": 120,
+		"price": 130,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/60_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a2735961-4573-408f-a7d1-2731c92c6bb9"

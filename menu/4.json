@@ -126,6 +126,20 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b1f5a9be-9901-46ef-b6d1-68e04823c8cc"
 	},
 	{
+		"name": "ライスセット（ライス+スープ+漬物付）",
+		"price": 190,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/301_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d1cf18fa-512c-4652-868f-5f9aa991bcc5"
+	},
+	{
+		"name": "スープ",
+		"price": 20,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/302_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/28035ae0-62d0-41b9-8fce-5947e42275cb"
+	},
+	{
 		"name": "天津飯",
 		"price": 560,
 		"category": "単品",

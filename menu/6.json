@@ -28,6 +28,20 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/59e4d9cd-992b-498f-b87e-2ff2970b689e"
 	},
 	{
+		"name": "紹興貴酒（ボトル）",
+		"price": 1010,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/306_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3d35312e-b3dc-44cb-ae7d-7331f0e2cf62"
+	},
+	{
+		"name": "紹興貴酒（グラス）",
+		"price": 470,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/307_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d9b1b3ff-0057-4a09-81e2-3583c02c4997"
+	},
+	{
 		"name": "キリン一番搾り（生）中瓶",
 		"price": 490,
 		"category": "ドリンク",

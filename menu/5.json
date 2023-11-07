@@ -21,6 +21,20 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1072eae8-352b-4c07-8886-24e170fab80f"
 	},
 	{
+		"name": "ニラ玉子焼き",
+		"price": 440,
+		"category": "おつまみ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/303_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/de30d707-ded6-4ec3-8994-ae836b656c32"
+	},
+	{
+		"name": "腸詰め",
+		"price": 330,
+		"category": "おつまみ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/304_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3613fcd9-4ae9-48fa-a665-a7d961ebfa27"
+	},
+	{
 		"name": "餃子（3個）",
 		"price": 150,
 		"category": "おつまみ",

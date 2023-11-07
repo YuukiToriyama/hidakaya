@@ -1,6 +1,13 @@
 [
 	{
-		"name": "W餃子定食",
+		"name": "W餃子定食（唐揚げ２個）",
+		"price": 760,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/162_021.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bc42fa45-3f3f-4e32-8b28-7691c1f40a7e"
+	},
+	{
+		"name": "W餃子定食（白菜キムチ）",
 		"price": 760,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/162_2.html",

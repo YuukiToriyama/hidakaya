@@ -105,7 +105,21 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/46e4efc1-1823-40b0-9dab-bd179da5035a"
 	},
 	{
-		"name": "W餃子定食",
+		"name": "味噌ラーメン＋半チャーハンセット【店舗限定】",
+		"price": 860,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/300_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f1eece58-d6ee-486c-9782-bdacfb199681"
+	},
+	{
+		"name": "W餃子定食（唐揚げ２個）",
+		"price": 760,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/162_021.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bc42fa45-3f3f-4e32-8b28-7691c1f40a7e"
+	},
+	{
+		"name": "W餃子定食（白菜キムチ）",
 		"price": 760,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/162_2.html",
@@ -301,6 +315,20 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b1f5a9be-9901-46ef-b6d1-68e04823c8cc"
 	},
 	{
+		"name": "ライスセット（ライス+スープ+漬物付）",
+		"price": 190,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/301_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d1cf18fa-512c-4652-868f-5f9aa991bcc5"
+	},
+	{
+		"name": "スープ",
+		"price": 20,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/302_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/28035ae0-62d0-41b9-8fce-5947e42275cb"
+	},
+	{
 		"name": "天津飯",
 		"price": 560,
 		"category": "単品",
@@ -341,6 +369,20 @@
 		"category": "おつまみ",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/30_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1072eae8-352b-4c07-8886-24e170fab80f"
+	},
+	{
+		"name": "ニラ玉子焼き",
+		"price": 440,
+		"category": "おつまみ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/303_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/de30d707-ded6-4ec3-8994-ae836b656c32"
+	},
+	{
+		"name": "腸詰め",
+		"price": 330,
+		"category": "おつまみ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/304_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3613fcd9-4ae9-48fa-a665-a7d961ebfa27"
 	},
 	{
 		"name": "餃子（3個）",
@@ -483,6 +525,20 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/59e4d9cd-992b-498f-b87e-2ff2970b689e"
 	},
 	{
+		"name": "紹興貴酒（ボトル）",
+		"price": 1010,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/306_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3d35312e-b3dc-44cb-ae7d-7331f0e2cf62"
+	},
+	{
+		"name": "紹興貴酒（グラス）",
+		"price": 470,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/307_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d9b1b3ff-0057-4a09-81e2-3583c02c4997"
+	},
+	{
 		"name": "キリン一番搾り（生）中瓶",
 		"price": 490,
 		"category": "ドリンク",
@@ -593,6 +649,20 @@
 		"category": "テイクアウト",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/64_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/230f447e-1ec9-4b44-bef6-bab4407fc21b"
+	},
+	{
+		"name": "チャーシュー（3枚）",
+		"price": 300,
+		"category": "トッピング",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/305_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/30d54f06-6187-4295-aa97-0d2b22b3e39f"
+	},
+	{
+		"name": "秘伝の辛味噌",
+		"price": 30,
+		"category": "トッピング",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/308_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/852fe350-8fd0-407f-9083-44bf776389bb"
 	},
 	{
 		"name": "細切りネギ",

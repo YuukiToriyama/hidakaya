@@ -52,7 +52,7 @@ export const fetchShopList = async () => {
 		const a = li.getElementsByTagName('a')[0]
 		const name = a.innerHTML.replace(/\s+/g, '').replace(/(<([^>]+)>)/gi, '') // 空白文字の削除&<span>タグの削除
 		const href = a.href
-		const id = href.match(/(\d+).html$/)[1]
+		const id = href.match(/(\d+).html/)[1]
 		shopList.push({
 			name: name,
 			href: href,

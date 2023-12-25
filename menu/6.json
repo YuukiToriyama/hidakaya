@@ -124,5 +124,26 @@
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/61_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/2aaff1f4-16fc-482a-8845-eb843af051a9"
+	},
+	{
+		"name": "ドラゴンハイボール",
+		"price": 320,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_204_02.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1590524b-1910-4a03-a939-3382f78d4859"
+	},
+	{
+		"name": "紹興酒 古越龍山善醸仕込み グラス（90㎖）",
+		"price": 220,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_205_02.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c61f6743-e418-4ce6-b224-b87e41065433"
+	},
+	{
+		"name": "紹興酒 古越龍山善醸仕込み ボトル（600㎖）",
+		"price": 1430,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_206_02.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9e47adf6-d599-4c99-9ab4-d204874774ad"
 	}
 ]

@@ -182,6 +182,20 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/601000b1-1d3a-4b25-893f-73c2dbb47dfc"
 	},
 	{
+		"name": "明太子ポテトサラダ",
+		"price": 180,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_202_05.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9ae4d912-119e-4c5e-a363-ad57ff0c5bb7"
+	},
+	{
+		"name": "ドラゴンチキン",
+		"price": 330,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_203_05.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8aa02b25-b3ec-4b25-8a8e-4d0b3bc1ea01"
+	},
+	{
 		"name": "キムチ炒飯【店舗限定】",
 		"price": 620,
 		"category": "単品",
@@ -490,6 +504,13 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/40b01469-09a9-48b8-a2ca-bc131e7388f8"
 	},
 	{
+		"name": "ロマネスコサラダ",
+		"price": 330,
+		"category": "おつまみ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_201_05.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5da0ccef-3b22-4a20-8746-09f96632a5bc"
+	},
+	{
 		"name": "おかわりウォッカ（中）",
 		"price": 250,
 		"category": "ドリンク",
@@ -614,6 +635,27 @@
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/61_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/2aaff1f4-16fc-482a-8845-eb843af051a9"
+	},
+	{
+		"name": "ドラゴンハイボール",
+		"price": 320,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_204_02.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1590524b-1910-4a03-a939-3382f78d4859"
+	},
+	{
+		"name": "紹興酒 古越龍山善醸仕込み グラス（90㎖）",
+		"price": 220,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_205_02.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c61f6743-e418-4ce6-b224-b87e41065433"
+	},
+	{
+		"name": "紹興酒 古越龍山善醸仕込み ボトル（600㎖）",
+		"price": 1430,
+		"category": "ドリンク",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_206_02.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9e47adf6-d599-4c99-9ab4-d204874774ad"
 	},
 	{
 		"name": "冷凍業務用生ぎょうざ（12個）",

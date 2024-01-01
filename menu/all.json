@@ -182,20 +182,6 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/601000b1-1d3a-4b25-893f-73c2dbb47dfc"
 	},
 	{
-		"name": "明太子ポテトサラダ",
-		"price": 180,
-		"category": "定食",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_202_05.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9ae4d912-119e-4c5e-a363-ad57ff0c5bb7"
-	},
-	{
-		"name": "ドラゴンチキン",
-		"price": 330,
-		"category": "定食",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_203_05.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8aa02b25-b3ec-4b25-8a8e-4d0b3bc1ea01"
-	},
-	{
 		"name": "キムチ炒飯【店舗限定】",
 		"price": 620,
 		"category": "単品",
@@ -508,7 +494,21 @@
 		"price": 330,
 		"category": "おつまみ",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_201_05.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5da0ccef-3b22-4a20-8746-09f96632a5bc"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ed7213fd-2555-41b8-9d46-fed82b19bf65"
+	},
+	{
+		"name": "明太子ポテトサラダ",
+		"price": 180,
+		"category": "おつまみ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_202_05.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9ae4d912-119e-4c5e-a363-ad57ff0c5bb7"
+	},
+	{
+		"name": "ドラゴンチキン",
+		"price": 330,
+		"category": "おつまみ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_203_05.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8aa02b25-b3ec-4b25-8a8e-4d0b3bc1ea01"
 	},
 	{
 		"name": "おかわりウォッカ（中）",

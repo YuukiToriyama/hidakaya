@@ -75,19 +75,5 @@
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/28_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/601000b1-1d3a-4b25-893f-73c2dbb47dfc"
-	},
-	{
-		"name": "明太子ポテトサラダ",
-		"price": 180,
-		"category": "定食",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_202_05.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9ae4d912-119e-4c5e-a363-ad57ff0c5bb7"
-	},
-	{
-		"name": "ドラゴンチキン",
-		"price": 330,
-		"category": "定食",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_203_05.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8aa02b25-b3ec-4b25-8a8e-4d0b3bc1ea01"
 	}
 ]

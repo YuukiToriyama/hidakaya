@@ -15,7 +15,7 @@ jobs:
           cache: 'npm'
 
       - name: Setup
-        run: npm ci
+        run: npm install
 
       - name: ESLint check
         run: npx eslint --ext .ts src

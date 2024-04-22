@@ -1,12 +1,5 @@
 [
 	{
-		"name": "メンチカツ",
-		"price": 270,
-		"category": "おつまみ",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/182_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d57eb039-d686-4236-b0f1-bc52e4a96d71"
-	},
-	{
 		"name": "おつまみネギチャーシュー",
 		"price": 350,
 		"category": "おつまみ",

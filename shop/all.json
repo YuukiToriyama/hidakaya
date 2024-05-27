@@ -2100,11 +2100,6 @@
 		"id": 599
 	},
 	{
-		"name": "屋台料理台南小岩南口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/575.html?takeout=",
-		"id": 575
-	},
-	{
 		"name": "来来軒赤羽店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/20.html?takeout=",
 		"id": 20
@@ -2258,6 +2253,11 @@
 		"name": "中華一番大宮東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/28.html?takeout=",
 		"id": 28
+	},
+	{
+		"name": "中華一番小岩南口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/575.html?takeout=",
+		"id": 575
 	},
 	{
 		"name": "大衆酒場HIDAKA鶴見西口店",

@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/YUUKIToriyama/hidakaya.git"
+        "url": "git+https://github.com/YuukiToriyama/hidakaya.git"
     },
-    "author": "YUUKIToriyama",
+    "author": "YuukiToriyama",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/YUUKIToriyama/hidakaya/issues"
+        "url": "https://github.com/YuukiToriyama/hidakaya/issues"
     },
-    "homepage": "https://github.com/YUUKIToriyama/hidakaya#readme",
+    "homepage": "https://github.com/YuukiToriyama/hidakaya#readme",
     "devDependencies": {
         "@types/jsdom": "^21.1.6",
         "@types/node": "^20.5.9",

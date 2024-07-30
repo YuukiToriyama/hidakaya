@@ -16,19 +16,23 @@ export const fetchMenuList = async (url: string) => {
 	).innerHTML
 	const ul = article.getElementsByClassName('box01')[0]
 	for (let i = 0; i < ul.childElementCount; i++) {
-		const li = ul.children.item(i)
-		const href = li.getElementsByTagName('a')[0].href
-		const thumbnail = li.getElementsByTagName('img')[0].src
-		const dd = li.getElementsByTagName('dd')[0]
-		const name = dd.getElementsByTagName('span')[0].innerHTML
-		const price = dd.getElementsByTagName('span')[1].innerHTML
-		menuList.push({
-			name: name,
-			price: parseInt(price),
-			category: category,
-			href: href,
-			thumbnail: thumbnail,
-		})
+		try {
+			const li = ul.children.item(i)
+			const href = li.getElementsByTagName('a')[0].href
+			const thumbnail = li.getElementsByTagName('img')[0].src
+			const dd = li.getElementsByTagName('dd')[0]
+			const name = dd.getElementsByTagName('span')[0].innerHTML
+			const price = dd.getElementsByTagName('span')[1].innerHTML
+			menuList.push({
+				name: name,
+				price: parseInt(price),
+				category: category,
+				href: href,
+				thumbnail: thumbnail,
+			})
+		} catch (error) {
+			console.error(error)
+		}
 	}
 	return menuList
 }

@@ -1,133 +1,133 @@
 [
 	{
-		"name": "キムチ炒飯【店舗限定】",
-		"price": 620,
+		"name": "キムチチャーハン【店舗限定】",
+		"price": 650,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/135_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5014c151-d890-4ff4-8083-7e17c95e6a1d"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c8307cb5-0911-4ffc-a5a8-bcd320b0265f"
 	},
 	{
-		"name": "キムチ炒飯大盛り【店舗限定】",
-		"price": 730,
+		"name": "キムチチャーハン大盛り【店舗限定】",
+		"price": 760,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/136_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9f7312f0-89f9-430e-b636-a26a4c5a2571"
 	},
 	{
 		"name": "中華丼【店舗限定】",
-		"price": 640,
+		"price": 650,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/147_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/82e0a3f3-1209-4b17-90e4-b9e46ae52cf6"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/12be9f35-17a1-4908-a57a-4b8d9ec79d0e"
 	},
 	{
 		"name": "中華丼大盛【店舗限定】",
-		"price": 740,
+		"price": 750,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/148_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/56a3f355-4261-4c64-adaa-a9a02af6bbf5"
 	},
 	{
 		"name": "半チャーハン",
-		"price": 290,
+		"price": 300,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/151_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/29db9765-c51f-4527-96b4-7133530fde18"
 	},
 	{
 		"name": "半ライス",
-		"price": 130,
+		"price": 140,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/152_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c1cd9bad-20c9-48cb-8115-d01cf6444fea"
 	},
 	{
 		"name": "ライス",
-		"price": 170,
+		"price": 180,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/153_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b7f669df-c410-441f-b206-c9d1b5cbd80c"
 	},
 	{
 		"name": "ライス大盛",
-		"price": 230,
+		"price": 240,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/154_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/fa9e55c2-8348-4be6-8f20-ed346bac01d1"
 	},
 	{
 		"name": "野菜炒め単品",
-		"price": 450,
+		"price": 470,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/19_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9544acf5-4b8b-4ef0-b30d-982db1540a01"
 	},
 	{
 		"name": "天津飯大盛",
-		"price": 660,
+		"price": 680,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/196_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4c183d4d-fdf7-4c11-b394-580c327bb74d"
 	},
 	{
 		"name": "麻婆豆腐",
-		"price": 560,
+		"price": 570,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/207_011.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c3907159-2ab7-4445-8cbe-b5c56d9e51d6"
 	},
 	{
 		"name": "青椒肉絲",
-		"price": 560,
+		"price": 580,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/208_011.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/259c36fa-3cbe-47eb-930e-da561604dfb6"
 	},
 	{
 		"name": "回鍋肉",
-		"price": 590,
+		"price": 610,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/209_011.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5f8eb2ea-4050-4166-bd3c-9a93412e69d4"
 	},
 	{
 		"name": "玉子とキクラゲ炒め",
-		"price": 510,
+		"price": 530,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_011.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bd223449-673d-42c9-b668-d03d19075293"
 	},
 	{
 		"name": "肉野菜炒め単品",
-		"price": 590,
+		"price": 610,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/21_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a29e9d47-6945-4b6c-a1c0-560f09e644b1"
 	},
 	{
 		"name": "生姜焼き単品",
-		"price": 600,
+		"price": 620,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/23_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/7ca3ed24-fd75-47d8-9e1d-39ab3f66583f"
 	},
 	{
 		"name": "唐揚げ単品",
-		"price": 600,
+		"price": 620,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/25_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d41ce79d-5bdd-46f7-aa37-9774327b3a04"
 	},
 	{
 		"name": "ニラレバ炒め単品",
-		"price": 550,
+		"price": 570,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/29_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b1f5a9be-9901-46ef-b6d1-68e04823c8cc"
 	},
 	{
 		"name": "ライスセット（ライス+スープ+漬物付）",
-		"price": 190,
+		"price": 200,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/301_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d1cf18fa-512c-4652-868f-5f9aa991bcc5"
@@ -141,21 +141,21 @@
 	},
 	{
 		"name": "天津飯",
-		"price": 560,
+		"price": 580,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/805_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ea035efa-e6f4-4782-9c67-c7b35d2c2d79"
 	},
 	{
 		"name": "チャーハン",
-		"price": 490,
+		"price": 510,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/998_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/0aa019da-dcdd-4799-9697-2ededb7f9696"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5c58ea2b-b913-46da-9358-092f9e03200a"
 	},
 	{
 		"name": "チャーハン（大盛）",
-		"price": 600,
+		"price": 620,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/999_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/33ee26f5-81de-4956-a0ed-8c52bb7e8777"

@@ -1,7 +1,7 @@
 [
 	{
 		"name": "チャーシュー（3枚）",
-		"price": 300,
+		"price": 330,
 		"category": "トッピング",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/305_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/30d54f06-6187-4295-aa97-0d2b22b3e39f"
@@ -15,14 +15,14 @@
 	},
 	{
 		"name": "細切りネギ",
-		"price": 140,
+		"price": 150,
 		"category": "トッピング",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/68_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5f4c1e89-5519-403e-99a3-1eca89fbcd08"
 	},
 	{
 		"name": "メンマ",
-		"price": 160,
+		"price": 170,
 		"category": "トッピング",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/69_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e0e84d45-b935-4909-9e20-10833797bcaf"

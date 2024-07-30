@@ -1,79 +1,107 @@
 [
 	{
 		"name": "W餃子定食（唐揚げ２個）",
-		"price": 760,
+		"price": 810,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/162_021.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bc42fa45-3f3f-4e32-8b28-7691c1f40a7e"
 	},
 	{
 		"name": "W餃子定食（白菜キムチ）",
-		"price": 760,
+		"price": 810,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/162_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/7c64d22f-d8a1-4c74-8703-681edc5a60c9"
 	},
 	{
 		"name": "野菜炒め定食",
-		"price": 640,
+		"price": 670,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/18_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e4d9ee60-c983-4611-95d0-302559eee118"
 	},
 	{
 		"name": "肉野菜炒め定食",
-		"price": 780,
+		"price": 810,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/20_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b4967153-fdec-47b6-b395-d08dac413bb4"
 	},
 	{
 		"name": "麻婆豆腐定食",
-		"price": 750,
+		"price": 770,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/207_021.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d3a5a56e-1bf8-4c3a-bc58-d2dc893b627f"
 	},
 	{
+		"name": "麻婆豆腐定食+餃子３個",
+		"price": 920,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/207_022.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6ec7eff5-83e8-45bb-91c0-c1983af6ee45"
+	},
+	{
 		"name": "青椒肉絲定食",
-		"price": 750,
+		"price": 780,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/208_021.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/74da277f-e6f7-4f6d-802f-55bf36776239"
 	},
 	{
 		"name": "回鍋肉定食",
-		"price": 780,
+		"price": 810,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/209_021.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b501ab99-21a3-4060-a507-333cda61233b"
 	},
 	{
 		"name": "玉子とキクラゲ炒め定食",
-		"price": 700,
+		"price": 730,
 		"category": "定食",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_021.html",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_020.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/174e5ccd-be33-470d-8aa0-fd909a2a23f1"
 	},
 	{
+		"name": "玉子とキクラゲ炒め定食＋餃子３個",
+		"price": 870,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_023.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3bdc76ea-67aa-43e5-9c8e-ea8e7d6189f4"
+	},
+	{
 		"name": "生姜焼き定食",
-		"price": 790,
+		"price": 820,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/22_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/05faae22-7798-460b-9846-cf6bc373f597"
 	},
 	{
 		"name": "唐揚げ定食",
-		"price": 790,
+		"price": 820,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/24_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/d5b1a16a-0304-470c-98e6-f4c4a9b4ab7e"
 	},
 	{
 		"name": "ニラレバ炒め定食",
-		"price": 740,
+		"price": 770,
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/28_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/601000b1-1d3a-4b25-893f-73c2dbb47dfc"
+	},
+	{
+		"name": "ニラレバ炒め定食＋餃子３個",
+		"price": 920,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/28_21.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/92b33a83-4fe4-47c0-b64c-ad59e29defe1"
+	},
+	{
+		"name": "生姜焼き定食＋餃子３個",
+		"price": 960,
+		"category": "定食",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/282_21.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b26cdc74-0760-429b-8440-3f2d3fb5a91a"
 	}
 ]

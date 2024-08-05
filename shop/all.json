@@ -515,14 +515,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html?takeout=",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html?takeout=",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html?takeout=",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -670,6 +670,11 @@
 		"id": 269
 	},
 	{
+		"name": "日高屋北柏南口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/328.html?takeout=",
+		"id": 328
+	},
+	{
 		"name": "日高屋キュービックプラザ新横浜店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/370.html?takeout=",
 		"id": 370
@@ -713,11 +718,6 @@
 		"name": "日高屋北小金店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/133.html?takeout=",
 		"id": 133
-	},
-	{
-		"name": "日高屋北柏南口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/328.html?takeout=",
-		"id": 328
 	},
 	{
 		"name": "日高屋北習志野駅前店",
@@ -773,11 +773,6 @@
 		"name": "日高屋希望ヶ丘店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/421.html?takeout=",
 		"id": 421
-	},
-	{
-		"name": "日高屋綱島西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/333.html?takeout=",
-		"id": 333
 	},
 	{
 		"name": "日高屋行徳駅前店",
@@ -1135,11 +1130,6 @@
 		"id": 128
 	},
 	{
-		"name": "日高屋巣鴨南口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/262.html?takeout=",
-		"id": 262
-	},
-	{
 		"name": "日高屋巣鴨北口駅前店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/502.html?takeout=",
 		"id": 502
@@ -1358,6 +1348,11 @@
 		"name": "日高屋鶴ヶ峰店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/214.html?takeout=",
 		"id": 214
+	},
+	{
+		"name": "日高屋綱島西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/333.html?takeout=",
+		"id": 333
 	},
 	{
 		"name": "日高屋鶴見西口店",

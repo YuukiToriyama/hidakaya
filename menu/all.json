@@ -49,18 +49,18 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e72be314-200a-4987-9f5e-d8a2284b296a"
 	},
 	{
-		"name": "【期間限定】冷麺",
-		"price": 660,
+		"name": "【期間限定】肉そば",
+		"price": 690,
 		"category": "ラーメン",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/214_021.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a5c58317-490a-486f-bf5d-0702e2987239"
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/215_021.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/580e8790-6e17-45e3-8d07-bfa8cceaa240"
 	},
 	{
 		"name": "とんこつラーメン",
 		"price": 490,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/4_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/07ea6794-7c43-4ec4-9569-fd0327b2fb13"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/034002c1-521a-43b3-8f66-85aeb98d5600"
 	},
 	{
 		"name": "野菜たっぷりタンメン（麺少なめ）",
@@ -109,7 +109,7 @@
 		"price": 780,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/165_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1d1e7fd3-afec-4968-a8cb-274d0eb7afbf"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8c4d33c5-6f76-4825-ba47-32ff65f0136a"
 	},
 	{
 		"name": "野菜たっぷりタンメン＋半チャーハンセット",
@@ -130,7 +130,7 @@
 		"price": 770,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/171_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/0ffc25aa-2f60-4356-8e25-0dc71db5198d"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f5670286-53d6-4f57-9bca-c993ba0ead31"
 	},
 	{
 		"name": "ラ餃チャセット",
@@ -194,6 +194,27 @@
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/178_21.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ac4c4a8d-5bb6-4b0d-8642-e53362c18076"
+	},
+	{
+		"name": "玉子とキクラゲ炒め定食＋餃子３個",
+		"price": 870,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_023.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3bdc76ea-67aa-43e5-9c8e-ea8e7d6189f4"
+	},
+	{
+		"name": "【期間限定】肉そば＋餃子６個セット",
+		"price": 970,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/215_0211.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bc65af25-1746-4e5c-b577-13cc6eae40a1"
+	},
+	{
+		"name": "【期間限定】肉そば＋半チャーハンセット",
+		"price": 980,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/215_0212.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a763f13a-428c-425d-916b-9cacef5c627a"
 	},
 	{
 		"name": "味噌ラーメン＋半チャーハンセット",
@@ -278,13 +299,6 @@
 		"category": "定食",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_020.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/174e5ccd-be33-470d-8aa0-fd909a2a23f1"
-	},
-	{
-		"name": "玉子とキクラゲ炒め定食＋餃子３個",
-		"price": 870,
-		"category": "定食",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_023.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3bdc76ea-67aa-43e5-9c8e-ea8e7d6189f4"
 	},
 	{
 		"name": "生姜焼き定食",

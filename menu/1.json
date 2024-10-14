@@ -49,13 +49,6 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e72be314-200a-4987-9f5e-d8a2284b296a"
 	},
 	{
-		"name": "【期間限定】肉そば",
-		"price": 690,
-		"category": "ラーメン",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/215_021.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/580e8790-6e17-45e3-8d07-bfa8cceaa240"
-	},
-	{
 		"name": "とんこつラーメン",
 		"price": 490,
 		"category": "ラーメン",
@@ -68,6 +61,13 @@
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/7_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bc4b7269-f5ff-4bf4-89e9-d725288d62c4"
+	},
+	{
+		"name": "【期間限定】モツ野菜ラーメン",
+		"price": 740,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/800_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6ea8e358-fc07-4ae8-a1eb-9de1cdf9659d"
 	},
 	{
 		"name": "野菜たっぷりタンメン",

@@ -49,13 +49,6 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e72be314-200a-4987-9f5e-d8a2284b296a"
 	},
 	{
-		"name": "【期間限定】肉そば",
-		"price": 690,
-		"category": "ラーメン",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/215_021.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/580e8790-6e17-45e3-8d07-bfa8cceaa240"
-	},
-	{
 		"name": "とんこつラーメン",
 		"price": 490,
 		"category": "ラーメン",
@@ -68,6 +61,13 @@
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/7_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bc4b7269-f5ff-4bf4-89e9-d725288d62c4"
+	},
+	{
+		"name": "【期間限定】モツ野菜ラーメン",
+		"price": 740,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/800_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6ea8e358-fc07-4ae8-a1eb-9de1cdf9659d"
 	},
 	{
 		"name": "野菜たっぷりタンメン",
@@ -203,25 +203,25 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3bdc76ea-67aa-43e5-9c8e-ea8e7d6189f4"
 	},
 	{
-		"name": "【期間限定】肉そば＋餃子６個セット",
-		"price": 970,
-		"category": "セット",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/215_0211.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bc65af25-1746-4e5c-b577-13cc6eae40a1"
-	},
-	{
-		"name": "【期間限定】肉そば＋半チャーハンセット",
-		"price": 980,
-		"category": "セット",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/215_0212.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a763f13a-428c-425d-916b-9cacef5c627a"
-	},
-	{
 		"name": "味噌ラーメン＋半チャーハンセット",
 		"price": 880,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/300_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f1eece58-d6ee-486c-9782-bdacfb199681"
+	},
+	{
+		"name": "【期間限定】モツ野菜ラーメン＋餃子６個セット",
+		"price": 990,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/800_21.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/929c1a64-30ea-4c95-8849-76df680095cb"
+	},
+	{
+		"name": "【期間限定】モツ野菜ラーメン＋半チャーハンセット",
+		"price": 990,
+		"category": "セット",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/800_22.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e17e0d03-5232-4155-8664-4f290faf1a10"
 	},
 	{
 		"name": "天津飯＋半ラーメン",

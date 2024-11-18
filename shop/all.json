@@ -115,6 +115,11 @@
 		"id": 293
 	},
 	{
+		"name": "日高屋足利助戸店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/637.html?takeout=",
+		"id": 637
+	},
+	{
 		"name": "日高屋イーサイト上尾店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/298.html?takeout=",
 		"id": 298
@@ -138,11 +143,6 @@
 		"name": "日高屋ｲｵﾝﾀｳﾝふじみ野店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/569.html?takeout=",
 		"id": 569
-	},
-	{
-		"name": "日高屋入間ヨークマート店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/140.html?takeout=",
-		"id": 140
 	},
 	{
 		"name": "日高屋入間市駅店",
@@ -280,6 +280,11 @@
 		"id": 608
 	},
 	{
+		"name": "日高屋宇都宮テラス店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/640.html?takeout=",
+		"id": 640
+	},
+	{
 		"name": "日高屋宇都宮上大曽店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/633.html?takeout=",
 		"id": 633
@@ -373,6 +378,11 @@
 		"name": "日高屋小田急マルシェ大和店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/528.html?takeout=",
 		"id": 528
+	},
+	{
+		"name": "日高屋太田内ケ島店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/639.html?takeout=",
+		"id": 639
 	},
 	{
 		"name": "日高屋大宮大成店",
@@ -520,14 +530,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅東口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html?takeout=",
-		"id": 188
-	},
-	{
 		"name": "日高屋川口駅西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html?takeout=",
 		"id": 197
+	},
+	{
+		"name": "日高屋川口駅東口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html?takeout=",
+		"id": 188
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -2018,6 +2028,11 @@
 		"name": "日高屋元住吉駅前店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/303.html?takeout=",
 		"id": 303
+	},
+	{
+		"name": "日高屋八千代台東口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/638.html?takeout=",
+		"id": 638
 	},
 	{
 		"name": "日高屋矢向店",

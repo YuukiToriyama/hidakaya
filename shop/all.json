@@ -70,11 +70,6 @@
 		"id": 90
 	},
 	{
-		"name": "日高屋浅草駅前店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/281.html?takeout=",
-		"id": 281
-	},
-	{
 		"name": "日高屋浅草雷門店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/105.html?takeout=",
 		"id": 105
@@ -530,14 +525,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html?takeout=",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html?takeout=",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html?takeout=",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -2218,6 +2213,11 @@
 		"name": "焼鳥日高新八柱店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/461.html?takeout=",
 		"id": 461
+	},
+	{
+		"name": "焼鳥日高下井草店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/643.html?takeout=",
+		"id": 643
 	},
 	{
 		"name": "焼鳥日高せんげん台西口店",

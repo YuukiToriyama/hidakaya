@@ -1,19 +1,5 @@
 [
 	{
-		"name": "キムチチャーハン＋半ラーメン",
-		"price": 860,
-		"category": "セット",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/135_22.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/eaae9156-858b-4ae2-8a06-36fa03d3646d"
-	},
-	{
-		"name": "キムチチャーハン+餃子３個",
-		"price": 800,
-		"category": "セット",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/135_23.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8c7ac99e-3429-4dd6-8f8c-6cad1bc91d52"
-	},
-	{
 		"name": "中華そば＋半チャーハンセット",
 		"price": 720,
 		"category": "セット",
@@ -22,14 +8,14 @@
 	},
 	{
 		"name": "とんこつラーメン＋半チャーハンセット",
-		"price": 780,
+		"price": 800,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/165_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8c4d33c5-6f76-4825-ba47-32ff65f0136a"
 	},
 	{
 		"name": "野菜たっぷりタンメン＋半チャーハンセット",
-		"price": 880,
+		"price": 910,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/166_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f4e62cef-c15e-466e-85fc-cabc7c68ed6d"
@@ -43,21 +29,21 @@
 	},
 	{
 		"name": "とんこつラーメン＋餃子６個セット",
-		"price": 770,
+		"price": 790,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/171_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f5670286-53d6-4f57-9bca-c993ba0ead31"
 	},
 	{
 		"name": "ラ餃チャセット",
-		"price": 680,
+		"price": 690,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/17_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6304a5d1-7e0b-4c67-98c6-36da097df6a6"
 	},
 	{
 		"name": "野菜たっぷりタンメン＋餃子６個セット",
-		"price": 870,
+		"price": 900,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/172_22.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/46e4efc1-1823-40b0-9dab-bd179da5035a"
@@ -71,70 +57,70 @@
 	},
 	{
 		"name": "とんこつラーメン＋半チャーハン＋餃子３個セット",
-		"price": 930,
+		"price": 950,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/174_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/45b350f2-17ce-4f47-ac6b-ea9917a5543b"
 	},
 	{
 		"name": "野菜たっぷりタンメン＋半チャーハン＋餃子３個セット",
-		"price": 1030,
+		"price": 1060,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/175_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1f2d42c8-9029-42f8-add8-1907c411d501"
 	},
 	{
 		"name": "五目あんかけラーメン＋餃子６個セット",
-		"price": 970,
+		"price": 1000,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/176_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/11894f7f-3146-4567-979f-622c8ce9012d"
 	},
 	{
 		"name": "五目あんかけラーメン＋餃子３個セット",
-		"price": 840,
+		"price": 870,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/177_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bf87852e-2a18-47f8-acc4-0685cc682da9"
 	},
 	{
 		"name": "味噌ラーメン＋半チャーハン＋餃子３個セット",
-		"price": 1030,
+		"price": 1050,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/178_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/cdd376bb-fe0e-4f99-a089-0a355b7a8363"
 	},
 	{
 		"name": "味噌ラーメン+餃子６個セット",
-		"price": 870,
+		"price": 890,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/178_21.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ac4c4a8d-5bb6-4b0d-8642-e53362c18076"
 	},
 	{
 		"name": "玉子とキクラゲ炒め定食＋餃子３個",
-		"price": 870,
+		"price": 910,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/210_023.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/3bdc76ea-67aa-43e5-9c8e-ea8e7d6189f4"
 	},
 	{
 		"name": "味噌ラーメン＋半チャーハンセット",
-		"price": 880,
+		"price": 900,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/300_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/f1eece58-d6ee-486c-9782-bdacfb199681"
 	},
 	{
 		"name": "天津飯＋半ラーメン",
-		"price": 790,
+		"price": 810,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/805_22.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ff0f4197-cece-48e1-b4ca-caddf223b807"
 	},
 	{
 		"name": "天津飯+餃子６個",
-		"price": 860,
+		"price": 880,
 		"category": "セット",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/805_23.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/2f3d2d93-3ddc-4d9a-81be-fe2819483c8e"

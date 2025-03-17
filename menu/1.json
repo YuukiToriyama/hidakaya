@@ -1,7 +1,7 @@
 [
 	{
 		"name": "五目あんかけラーメン",
-		"price": 690,
+		"price": 720,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/11_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/960a63b6-ad38-443f-a15b-c1cc37c85406"
@@ -15,21 +15,21 @@
 	},
 	{
 		"name": "カタヤキソバ【店舗限定】",
-		"price": 690,
+		"price": 720,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/12_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6e1bbd09-1e23-4971-85ae-84bf199da345"
 	},
 	{
 		"name": "半ラーメン",
-		"price": 230,
+		"price": 240,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/13_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a447e8cd-41c1-400d-acad-51082e80ba10"
 	},
 	{
 		"name": "麻婆麺",
-		"price": 680,
+		"price": 700,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/211_011.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/0bf7e584-9bac-4d1e-8f74-e62399cfd41b"
@@ -43,14 +43,14 @@
 	},
 	{
 		"name": "塩焼きそば",
-		"price": 620,
+		"price": 640,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/213_011.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e72be314-200a-4987-9f5e-d8a2284b296a"
 	},
 	{
 		"name": "とんこつラーメン",
-		"price": 490,
+		"price": 510,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/4_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/034002c1-521a-43b3-8f66-85aeb98d5600"
@@ -64,14 +64,14 @@
 	},
 	{
 		"name": "野菜たっぷりタンメン",
-		"price": 590,
+		"price": 620,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/8_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/462dc15b-9532-4dcc-969b-21e0ca60834f"
 	},
 	{
 		"name": "味噌ラーメン",
-		"price": 590,
+		"price": 610,
 		"category": "ラーメン",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1f463078-6d3f-4a6d-af85-2b5f59396363"

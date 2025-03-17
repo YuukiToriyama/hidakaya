@@ -8,7 +8,7 @@
 	},
 	{
 		"name": "ホッピー（外）",
-		"price": 200,
+		"price": 210,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/194_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/8c874d34-3969-4222-bfa2-38d4fcf0af0d"
@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "日本酒",
-		"price": 360,
+		"price": 370,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/2222.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/59e4d9cd-992b-498f-b87e-2ff2970b689e"
@@ -43,28 +43,28 @@
 	},
 	{
 		"name": "キリン一番搾り（生）中瓶",
-		"price": 500,
+		"price": 520,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/49_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/93f5062a-7769-4bdb-b17f-0a44c00194cd"
 	},
 	{
 		"name": "ハイボール",
-		"price": 330,
+		"price": 340,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/50_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ee6c295f-cc0a-4db8-ac70-302a5ae30c06"
 	},
 	{
 		"name": "ホッピーセット",
-		"price": 450,
+		"price": 460,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/51_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/ec783fbb-cb7c-4a39-90b1-ba4356184d6b"
 	},
 	{
 		"name": "生冷酒",
-		"price": 420,
+		"price": 430,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/52_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e5defefe-8870-4cd1-baa4-974f6ee51ab2"
@@ -99,7 +99,7 @@
 	},
 	{
 		"name": "からだすこやか茶W",
-		"price": 210,
+		"price": 220,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/59_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/6f70a15c-d277-4c69-af57-f9cbede3a4ed"
@@ -113,21 +113,21 @@
 	},
 	{
 		"name": "キリン一番搾り（生）ジョッキ",
-		"price": 350,
+		"price": 390,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/61_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/2aaff1f4-16fc-482a-8845-eb843af051a9"
 	},
 	{
 		"name": "ドラゴンハイボール",
-		"price": 320,
+		"price": 330,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_204_02.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1590524b-1910-4a03-a939-3382f78d4859"
 	},
 	{
 		"name": "紹興酒 古越龍山善醸仕込み グラス（90㎖）",
-		"price": 220,
+		"price": 230,
 		"category": "ドリンク",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/9_205_02.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c61f6743-e418-4ce6-b224-b87e41065433"

@@ -1,28 +1,14 @@
 [
 	{
-		"name": "キムチチャーハン【店舗限定】",
-		"price": 650,
-		"category": "単品",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/135_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c8307cb5-0911-4ffc-a5a8-bcd320b0265f"
-	},
-	{
-		"name": "キムチチャーハン大盛り【店舗限定】",
-		"price": 760,
-		"category": "単品",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/136_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9f7312f0-89f9-430e-b636-a26a4c5a2571"
-	},
-	{
 		"name": "中華丼【店舗限定】",
-		"price": 650,
+		"price": 680,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/147_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/12be9f35-17a1-4908-a57a-4b8d9ec79d0e"
 	},
 	{
 		"name": "中華丼大盛【店舗限定】",
-		"price": 750,
+		"price": 790,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/148_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/56a3f355-4261-4c64-adaa-a9a02af6bbf5"
@@ -36,21 +22,21 @@
 	},
 	{
 		"name": "半ライス",
-		"price": 140,
+		"price": 150,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/152_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c1cd9bad-20c9-48cb-8115-d01cf6444fea"
 	},
 	{
 		"name": "ライス",
-		"price": 180,
+		"price": 210,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/153_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b7f669df-c410-441f-b206-c9d1b5cbd80c"
 	},
 	{
 		"name": "ライス大盛",
-		"price": 240,
+		"price": 280,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/154_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/fa9e55c2-8348-4be6-8f20-ed346bac01d1"
@@ -64,14 +50,14 @@
 	},
 	{
 		"name": "天津飯大盛",
-		"price": 680,
+		"price": 710,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/196_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4c183d4d-fdf7-4c11-b394-580c327bb74d"
 	},
 	{
 		"name": "麻婆豆腐",
-		"price": 570,
+		"price": 580,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/207_011.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c3907159-2ab7-4445-8cbe-b5c56d9e51d6"
@@ -113,21 +99,21 @@
 	},
 	{
 		"name": "唐揚げ単品",
-		"price": 620,
+		"price": 640,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/25_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e460b903-15dc-422e-9052-be54968b99ca"
 	},
 	{
 		"name": "ニラレバ炒め単品",
-		"price": 570,
+		"price": 580,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/29_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4c3ca6d8-31fe-4cee-8242-284e7ebd92c5"
 	},
 	{
 		"name": "ライスセット（ライス+スープ+漬物付）",
-		"price": 200,
+		"price": 230,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/301_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bcdb284d-931f-421f-9866-5f0c1505c633"
@@ -141,21 +127,21 @@
 	},
 	{
 		"name": "天津飯",
-		"price": 580,
+		"price": 600,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/805_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/fed195c6-b87a-4341-849b-2cdc18841d63"
 	},
 	{
 		"name": "チャーハン",
-		"price": 510,
+		"price": 530,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/998_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/5c58ea2b-b913-46da-9358-092f9e03200a"
 	},
 	{
 		"name": "チャーハン（大盛）",
-		"price": 620,
+		"price": 650,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/999_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/33ee26f5-81de-4956-a0ed-8c52bb7e8777"

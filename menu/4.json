@@ -1,5 +1,12 @@
 [
 	{
+		"name": "キムチチャーハン【店舗限定】",
+		"price": 670,
+		"category": "単品",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/135_2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c8307cb5-0911-4ffc-a5a8-bcd320b0265f"
+	},
+	{
 		"name": "中華丼【店舗限定】",
 		"price": 680,
 		"category": "単品",

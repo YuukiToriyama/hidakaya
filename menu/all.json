@@ -368,7 +368,7 @@
 		"price": 710,
 		"category": "単品",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/196_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/4c183d4d-fdf7-4c11-b394-580c327bb74d"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/c85b319f-0d98-4e8e-a2d4-038a0dd54bef"
 	},
 	{
 		"name": "麻婆豆腐",
@@ -756,6 +756,13 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/9e47adf6-d599-4c99-9ab4-d204874774ad"
 	},
 	{
+		"name": "冷凍生餃子（30個）",
+		"price": 756,
+		"category": "おすすめ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/62_002.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/021b4e99-7719-4920-93ab-7acb9ac26749"
+	},
+	{
 		"name": "チャーシュー（3枚）",
 		"price": 330,
 		"category": "トッピング",
@@ -781,6 +788,6 @@
 		"price": 170,
 		"category": "トッピング",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/69_2.html",
-		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/e0e84d45-b935-4909-9e20-10833797bcaf"
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/b919ddd5-60ed-4fe6-84d0-8dcacef7b7ec"
 	}
 ]

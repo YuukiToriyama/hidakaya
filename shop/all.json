@@ -665,6 +665,11 @@
 		"id": 118
 	},
 	{
+		"name": "日高屋上大岡西口北",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/648.html?takeout=",
+		"id": 648
+	},
+	{
 		"name": "日高屋鴨居南口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/345.html?takeout=",
 		"id": 345
@@ -1313,6 +1318,11 @@
 		"name": "日高屋竹ノ塚西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/339.html?takeout=",
 		"id": 339
+	},
+	{
+		"name": "日高屋ウニクス秩父店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/647.html?takeout=",
+		"id": 647
 	},
 	{
 		"name": "日高屋千葉浜野店",

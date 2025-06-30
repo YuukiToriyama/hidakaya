@@ -110,6 +110,11 @@
 		"id": 293
 	},
 	{
+		"name": "日高屋足利八幡町店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/650.html?takeout=",
+		"id": 650
+	},
+	{
 		"name": "日高屋足利助戸店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/637.html?takeout=",
 		"id": 637
@@ -1628,6 +1633,11 @@
 		"name": "日高屋阪急大井町ガーデン店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/330.html?takeout=",
 		"id": 330
+	},
+	{
+		"name": "日高屋JR拝島駅南口",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/652.html?takeout=",
+		"id": 652
 	},
 	{
 		"name": "日高屋秦野鈴張町店",

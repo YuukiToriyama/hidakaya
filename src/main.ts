@@ -4,7 +4,14 @@ import { DAO } from './Database/DAO'
 import { MenuDAO } from './Database/MenuDAO'
 import { ShopDAO } from './Database/ShopDAO'
 import { fetchMenuList, fetchShopInfo, fetchShopList } from './fetch'
-import { Menu } from './Model/Menu';
+import { Menu } from './Model/Menu'
+
+const writeJSONFile = async (fileName: string, object: unknown) => {
+	const json = JSON.stringify(object, null, '\t')
+	const byteLength = Buffer.byteLength(json)
+	await fs.writeFile(fileName, json)
+	console.log(`${fileName} was created (${byteLength} byte).`)
+}
 
 (async () => {
 	// ディレクトリを作成
@@ -56,10 +63,3 @@ import { Menu } from './Model/Menu';
 
 	connection.close()
 })()
-
-const writeJSONFile = async (fileName: string, object: unknown) => {
-	const json = JSON.stringify(object, null, '\t')
-	const byteLength = Buffer.byteLength(json)
-	await fs.writeFile(fileName, json)
-	console.log(`${fileName} was created (${byteLength} byte).`)
-}

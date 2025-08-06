@@ -22,7 +22,6 @@
     "devDependencies": {
         "@types/jsdom": "^21.1.6",
         "@types/node": "^20.5.9",
-        "@types/sqlite3": "^3.1.8",
         "@typescript-eslint/eslint-plugin": "^6.5.0",
         "@typescript-eslint/parser": "^6.5.0",
         "esbuild-runner": "^2.2.2",
@@ -31,8 +30,8 @@
         "typescript": "^5.2.2"
     },
     "dependencies": {
-        "jsdom": "^24.0.0",
-        "sqlite3": ">=5.1.5"
+        "jsdom": "^26.1.0",
+        "sqlite3": ">=5.1.7"
     },
     "volta": {
         "node": "20.11.0"

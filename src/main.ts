@@ -7,10 +7,15 @@ import { fetchMenuList, fetchShopInfo, fetchShopList } from './fetch'
 import { Menu } from './Model/Menu'
 
 const writeJSONFile = async (fileName: string, object: unknown) => {
-	const json = JSON.stringify(object, null, '\t')
-	const byteLength = Buffer.byteLength(json)
-	await fs.writeFile(fileName, json)
-	console.log(`${fileName} was created (${byteLength} byte).`)
+	try {
+		const json = JSON.stringify(object, null, '\t')
+		const byteLength = Buffer.byteLength(json)
+		await fs.writeFile(fileName, json)
+		console.log(`${fileName} was created (${byteLength} byte).`)
+	} catch (error) {
+		console.error(`Failed to write JSON file ${fileName}:`, error)
+		throw error
+	}
 }
 
 (async () => {

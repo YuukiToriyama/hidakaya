@@ -12,10 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Use Node.js v20
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+      - name: Node.js setup
+        uses: volta-cli/action@v4
 
       - name: Setup
         run: |

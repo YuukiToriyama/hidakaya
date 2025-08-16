@@ -5,11 +5,9 @@
 	"imports": {
 	},
 	"fmt": {
-		"files": {
-			"include": [
-				"src/"
-			]
-		},
+        "include": [
+            "src/"
+        ],
 		"options": {
 			"useTabs": true,
 			"indentWidth": 4,
@@ -18,10 +16,8 @@
 		}
 	},
 	"lint": {
-		"files": {
-			"include": [
-				"src/"
-			]
-		}
+        "include": [
+            "src/"
+        ]
 	}
 }

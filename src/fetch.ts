@@ -1,4 +1,4 @@
-import { JSDOM } from 'jsdom'
+import { JSDOM } from 'npm:jsdom@26.1.0'
 import { Menu } from './Model/Menu.ts'
 import { Shop } from './Model/Shop.ts'
 

@@ -1,0 +1,21 @@
+{
+  "tasks": {
+    "dev": "deno run src/main.ts"
+  },
+  "imports": {
+  },
+  "fmt": {
+    "files": {
+      "include": [
+        "src/"
+      ]
+    }
+  },
+  "lint": {
+    "files": {
+      "include": [
+        "src/"
+      ]
+    }
+  }
+}

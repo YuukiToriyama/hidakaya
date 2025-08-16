@@ -10,10 +10,12 @@ export class CategoryDAO {
 
 	public async createTable(): Promise<void> {
 		this.connection.execute(
-			'CREATE TABLE IF NOT EXISTS category (id INTEGER PRIMARY KEY, name TEXT)'
+			'CREATE TABLE IF NOT EXISTS category (id INTEGER PRIMARY KEY, name TEXT)',
 		)
-		categories.forEach(category => {
-			const statement = this.connection.prepareQuery('INSERT INTO category VALUES (?, ?)')
+		categories.forEach((category) => {
+			const statement = this.connection.prepareQuery(
+				'INSERT INTO category VALUES (?, ?)',
+			)
 			statement.execute([category.id, category.name])
 			statement.finalize()
 		})

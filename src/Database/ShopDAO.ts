@@ -20,15 +20,25 @@ export class ShopDAO {
 				lastOrder TEXT, 
 				url TEXT, 
 				note TEXT
-			 )`
+			 )`,
 		)
 	}
 
 	public async insert(shop: Shop): Promise<void> {
 		const statement = this.connection.prepareQuery(
-			'INSERT INTO shop VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)'
+			'INSERT INTO shop VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
 		)
-		statement.execute([shop.id, shop.name, shop.address, shop.tel, shop.open, shop.close, shop.lastOrder, shop.url, shop.note])
+		statement.execute([
+			shop.id,
+			shop.name,
+			shop.address,
+			shop.tel,
+			shop.open,
+			shop.close,
+			shop.lastOrder,
+			shop.url,
+			shop.note,
+		])
 		statement.finalize()
 	}
 }

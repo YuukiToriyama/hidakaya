@@ -54,12 +54,14 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 	const shopDAO = new ShopDAO(connection)
 	await shopDAO.createTable()
 	await writeJSONFile('./output/shop/all.json', shopList)
-	const taskList = shopList.map(shop => (async () => {
-		const fileName = `./output/shop/${shop.id}.json`
-		const shopInfo = await fetchShopInfo(shop.id)
-		await writeJSONFile(fileName, shopInfo)
-		await shopDAO.insert(shopInfo)
-	})())
+	const taskList = shopList.map((shop) =>
+		(async () => {
+			const fileName = `./output/shop/${shop.id}.json`
+			const shopInfo = await fetchShopInfo(shop.id)
+			await writeJSONFile(fileName, shopInfo)
+			await shopDAO.insert(shopInfo)
+		})()
+	)
 	await Promise.all(taskList)
 
 	connection.close()

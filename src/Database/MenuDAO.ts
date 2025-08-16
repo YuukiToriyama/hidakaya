@@ -18,17 +18,26 @@ export class MenuDAO {
 				category INTEGER, 
 				href TEXT, 
 				thumbnail TEXT
-			 )`
+			 )`,
 		)
 	}
 
 	public async insert(menuList: Menu[]): Promise<void> {
 		menuList.forEach((menu, index) => {
-			const categoryId = categories.filter(category => category.name == menu.category)[0].id
+			const categoryId = categories.filter((category) =>
+				category.name == menu.category
+			)[0].id
 			const statement = this.connection.prepareQuery(
-				'INSERT INTO menu VALUES (?, ?, ?, ?, ?, ?)'
+				'INSERT INTO menu VALUES (?, ?, ?, ?, ?, ?)',
 			)
-			statement.execute([index + 1, menu.name, menu.price, categoryId, menu.href, menu.thumbnail])
+			statement.execute([
+				index + 1,
+				menu.name,
+				menu.price,
+				categoryId,
+				menu.href,
+				menu.thumbnail,
+			])
 			statement.finalize()
 		})
 	}

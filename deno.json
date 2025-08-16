@@ -1,6 +1,6 @@
 {
 	"tasks": {
-		"dev": "deno run --allow-net=hidakaya.hiday.co.jp --allow-env --allow-read --allow-write src/main.ts"
+		"dev": "deno run --allow-net=hidakaya.hiday.co.jp --allow-env --allow-read=output --allow-write=output src/main.ts"
 	},
 	"imports": {
 	},

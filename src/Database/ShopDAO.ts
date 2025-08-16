@@ -1,5 +1,5 @@
 import * as sqlite3 from 'sqlite3'
-import { Shop } from '../Model/Shop'
+import { Shop } from '../Model/Shop.ts'
 
 export class ShopDAO {
 	private connection: sqlite3.Database

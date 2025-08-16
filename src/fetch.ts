@@ -1,6 +1,6 @@
 import { JSDOM } from 'jsdom'
-import { Menu } from './Model/Menu'
-import { Shop } from './Model/Shop'
+import { Menu } from './Model/Menu.ts'
+import { Shop } from './Model/Shop.ts'
 
 /**
  * メニュー一覧ページからメニューをスクレイピングする

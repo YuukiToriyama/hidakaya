@@ -1,5 +1,5 @@
 import * as sqlite3 from 'sqlite3'
-import { categories } from '../Model/Category'
+import { categories } from '../Model/Category.ts'
 
 export class CategoryDAO {
 	private connection: sqlite3.Database

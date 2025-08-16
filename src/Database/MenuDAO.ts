@@ -1,6 +1,6 @@
 import * as sqlite3 from 'sqlite3'
-import { categories } from '../Model/Category'
-import { Menu } from '../Model/Menu'
+import { categories } from '../Model/Category.ts'
+import { Menu } from '../Model/Menu.ts'
 
 export class MenuDAO {
 	private connection: sqlite3.Database

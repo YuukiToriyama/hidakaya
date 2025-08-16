@@ -1,10 +1,10 @@
 import * as fs from 'fs/promises'
-import { CategoryDAO } from './Database/CategoryDAO'
-import { DAO } from './Database/DAO'
-import { MenuDAO } from './Database/MenuDAO'
-import { ShopDAO } from './Database/ShopDAO'
-import { fetchMenuList, fetchShopInfo, fetchShopList } from './fetch'
-import { Menu } from './Model/Menu'
+import { CategoryDAO } from './Database/CategoryDAO.ts'
+import { DAO } from './Database/DAO.ts'
+import { MenuDAO } from './Database/MenuDAO.ts'
+import { ShopDAO } from './Database/ShopDAO.ts'
+import { fetchMenuList, fetchShopInfo, fetchShopList } from './fetch.ts'
+import { Menu } from './Model/Menu.ts'
 
 const writeJSONFile = async (fileName: string, object: unknown) => {
 	try {

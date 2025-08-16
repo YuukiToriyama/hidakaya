@@ -42,11 +42,9 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 	const menuDAO = new MenuDAO(connection)
 	await menuDAO.createTable()
 	await menuDAO.insert(menuList)
-	await menuDAO.close()
 	// 4. hidakaya.dbにcategoryテーブルを作成
 	const categoryDAO = new CategoryDAO(connection)
 	await categoryDAO.createTable()
-	await categoryDAO.close()
 
 	// 店舗一覧を取得
 	// 1. 店舗一覧JSONを作成
@@ -63,7 +61,6 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 		await shopDAO.insert(shopInfo)
 	})())
 	await Promise.all(taskList)
-	await shopDAO.close()
 
 	connection.close()
 })()

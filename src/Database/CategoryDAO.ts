@@ -1,34 +1,21 @@
-import * as sqlite3 from 'sqlite3'
+import { DB } from 'https://deno.land/x/sqlite@v3.9.1/mod.ts'
 import { categories } from '../Model/Category.ts'
 
 export class CategoryDAO {
-	private connection: sqlite3.Database
+	private connection: DB
 
-	constructor(connection: sqlite3.Database) {
+	constructor(connection: DB) {
 		this.connection = connection
 	}
 
 	public async createTable(): Promise<void> {
-		return new Promise((resolve, reject) => {
-			this.connection.run('CREATE TABLE IF NOT EXISTS category (id INTEGER PRIMARY KEY, name TEXT)', error => {
-				reject(error)
-			})
-			this.connection.serialize(() => {
-				categories.forEach(({ id, name }) => {
-					const statement = this.connection.prepare('INSERT INTO category VALUES (?, ?)')
-					statement.run([id, name])
-				})
-			})
-			resolve()
-		})
-	}
-
-	public close(): Promise<void> {
-		return new Promise((resolve, reject) => {
-			this.connection.close(error => {
-				reject(error)
-			})
-			resolve()
+		this.connection.execute(
+			'CREATE TABLE IF NOT EXISTS category (id INTEGER PRIMARY KEY, name TEXT)'
+		)
+		categories.forEach(category => {
+			const statement = this.connection.prepareQuery('INSERT INTO category VALUES (?, ?)')
+			statement.execute([category.id, category.name])
+			statement.finalize()
 		})
 	}
 }

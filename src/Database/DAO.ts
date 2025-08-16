@@ -1,9 +1,9 @@
-import * as sqlite3 from 'sqlite3'
+import { DB } from 'https://deno.land/x/sqlite@v3.9.1/mod.ts'
 
 export class DAO {
-	public connection: sqlite3.Database
+	public connection: DB
 
 	constructor(dbName: string) {
-		this.connection = new sqlite3.Database(dbName)
+		this.connection = new DB(dbName)
 	}
 }

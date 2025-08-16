@@ -1,4 +1,3 @@
-import * as fs from 'fs/promises'
 import { CategoryDAO } from './Database/CategoryDAO.ts'
 import { DAO } from './Database/DAO.ts'
 import { MenuDAO } from './Database/MenuDAO.ts'
@@ -9,8 +8,8 @@ import { Menu } from './Model/Menu.ts'
 const writeJSONFile = async (fileName: string, object: unknown) => {
 	try {
 		const json = JSON.stringify(object, null, '\t')
-		const byteLength = Buffer.byteLength(json)
-		await fs.writeFile(fileName, json)
+		const byteLength = new TextEncoder().encode(json).length
+		await Deno.writeTextFile(fileName, json)
 		console.log(`${fileName} was created (${byteLength} byte).`)
 	} catch (error) {
 		console.error(`Failed to write JSON file ${fileName}:`, error)
@@ -20,9 +19,9 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 
 (async () => {
 	// ディレクトリを作成
-	await fs.mkdir('./output/menu', { recursive: true })
-	await fs.mkdir('./output/shop', { recursive: true })
-	await fs.mkdir('./output/sqlite', { recursive: true })
+	await Deno.mkdir('./output/menu', { recursive: true })
+	await Deno.mkdir('./output/shop', { recursive: true })
+	await Deno.mkdir('./output/sqlite', { recursive: true })
 	// データベースへアクセス
 	const connection = new DAO('./output/sqlite/hidakaya.db').connection
 

@@ -6,7 +6,6 @@
     "scripts": {
         "debug": "rimraf output && esr src/main.ts",
         "build": "rimraf dist && tsc",
-        "lint": "eslint --fix --ext .ts src",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
@@ -22,10 +21,7 @@
     "devDependencies": {
         "@types/jsdom": "^21.1.7",
         "@types/node": "^20.11.0",
-        "@typescript-eslint/eslint-plugin": "^8.39.0",
-        "@typescript-eslint/parser": "^8.39.0",
         "esbuild-runner": "^2.2.2",
-        "eslint": "^9.32.0",
         "rimraf": "^6.0.1",
         "typescript": "^5.9.2"
     },

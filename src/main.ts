@@ -40,11 +40,11 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 	await writeJSONFile('./output/menu/all.json', menuList)
 	// 3. hidakaya.dbにmenuテーブルを作成
 	const menuDAO = new MenuDAO(connection)
-	await menuDAO.createTable()
-	await menuDAO.insert(menuList)
+	menuDAO.createTable()
+	menuDAO.insert(menuList)
 	// 4. hidakaya.dbにcategoryテーブルを作成
 	const categoryDAO = new CategoryDAO(connection)
-	await categoryDAO.createTable()
+	categoryDAO.createTable()
 
 	// 店舗一覧を取得
 	// 1. 店舗一覧JSONを作成
@@ -52,14 +52,14 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 	// 3. hidakaya.dbにshopテーブルを作成
 	const shopList = await fetchShopList()
 	const shopDAO = new ShopDAO(connection)
-	await shopDAO.createTable()
+	shopDAO.createTable()
 	await writeJSONFile('./output/shop/all.json', shopList)
 	const taskList = shopList.map((shop) =>
 		(async () => {
 			const fileName = `./output/shop/${shop.id}.json`
 			const shopInfo = await fetchShopInfo(shop.id)
 			await writeJSONFile(fileName, shopInfo)
-			await shopDAO.insert(shopInfo)
+			shopDAO.insert(shopInfo)
 		})()
 	)
 	await Promise.all(taskList)

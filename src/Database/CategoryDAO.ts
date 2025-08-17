@@ -8,7 +8,7 @@ export class CategoryDAO {
 		this.connection = connection
 	}
 
-	public async createTable(): Promise<void> {
+	public createTable() {
 		this.connection.execute(
 			'CREATE TABLE IF NOT EXISTS category (id INTEGER PRIMARY KEY, name TEXT)',
 		)

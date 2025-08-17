@@ -9,7 +9,7 @@ export class MenuDAO {
 		this.connection = connection
 	}
 
-	public async createTable(): Promise<void> {
+	public createTable() {
 		this.connection.execute(
 			`CREATE TABLE IF NOT EXISTS menu (
 				id INTEGER PRIMARY KEY, 
@@ -22,7 +22,7 @@ export class MenuDAO {
 		)
 	}
 
-	public async insert(menuList: Menu[]): Promise<void> {
+	public insert(menuList: Menu[]) {
 		const statement = this.connection.prepareQuery(
 			'INSERT INTO menu VALUES (?, ?, ?, ?, ?, ?)',
 		)

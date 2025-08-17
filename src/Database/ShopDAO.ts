@@ -8,7 +8,7 @@ export class ShopDAO {
 		this.connection = connection
 	}
 
-	public async createTable(): Promise<void> {
+	public createTable() {
 		this.connection.execute(
 			`CREATE TABLE IF NOT EXISTS shop (
 				id INTEGER PRIMARY KEY, 
@@ -24,7 +24,7 @@ export class ShopDAO {
 		)
 	}
 
-	public async insert(shop: Shop): Promise<void> {
+	public insert(shop: Shop) {
 		const statement = this.connection.prepareQuery(
 			'INSERT INTO shop VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)',
 		)

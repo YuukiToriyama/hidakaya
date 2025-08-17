@@ -1,6 +1,6 @@
-import { JSDOM } from 'jsdom'
-import { Menu } from './Model/Menu'
-import { Shop } from './Model/Shop'
+import { JSDOM } from 'npm:jsdom@26.1.0'
+import { Menu } from './Model/Menu.ts'
+import { Shop } from './Model/Shop.ts'
 
 /**
  * メニュー一覧ページからメニューをスクレイピングする
@@ -43,18 +43,21 @@ export const fetchMenuList = async (url: string) => {
  */
 export const fetchShopList = async () => {
 	const shopList: {
-		name: string;
-		href: string;
-		id: number;
+		name: string
+		href: string
+		id: number
 	}[] = []
 	const jsdom = await JSDOM.fromURL(
-		'https://hidakaya.hiday.co.jp/hits/ja/shop/99/list.html'
+		'https://hidakaya.hiday.co.jp/hits/ja/shop/99/list.html',
 	)
 	const ul = jsdom.window.document.getElementsByClassName('ac_body')[0]
 	for (let i = 0; i < ul.childElementCount; i++) {
 		const li = ul.children[i]
 		const a = li.getElementsByTagName('a')[0]
-		const name = a.innerHTML.replace(/\s+/g, '').replace(/(<([^>]+)>)/gi, '') // 空白文字の削除&<span>タグの削除
+		const name = a.innerHTML.replace(/\s+/g, '').replace(
+			/(<([^>]+)>)/gi,
+			'',
+		) // 空白文字の削除&<span>タグの削除
 		const href = a.href
 		const id = href.match(/(\d+).html/)[1]
 		shopList.push({
@@ -85,7 +88,8 @@ export const fetchShopInfo = async (shopId: number): Promise<Shop> => {
 	}
 	const jsdom = await JSDOM.fromURL(shop.url)
 	// 店舗名を取得
-	shop.name = jsdom.window.document.getElementsByClassName('name')[0].innerHTML
+	shop.name =
+		jsdom.window.document.getElementsByClassName('name')[0].innerHTML
 	// 店舗詳細を取得
 	const div = jsdom.window.document.getElementsByClassName('status')[0]
 	const tbody = div.getElementsByTagName('tbody')[0]

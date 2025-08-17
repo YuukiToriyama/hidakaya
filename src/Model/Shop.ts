@@ -1,20 +1,20 @@
 export interface Shop {
 	/** 店舗ID */
-	id: number;
+	id: number
 	/** 店舗名 */
-	name: string;
+	name: string
 	/** 店舗の所在地 */
-	address: string;
+	address: string
 	/** 店舗の電話番号 */
-	tel: string;
+	tel: string
 	/** 開店時間 */
-	open: string;
+	open: string
 	/** 閉店時間 */
-	close: string;
+	close: string
 	/** ラストオーダー */
-	lastOrder: string;
+	lastOrder: string
 	/** 店舗URL */
-	url: string;
+	url: string
 	/** 備考 */
-	note: string;
+	note: string
 }

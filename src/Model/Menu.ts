@@ -1,12 +1,12 @@
 export interface Menu {
 	/** 商品名 */
-	name: string;
+	name: string
 	/** 価格 */
-	price: number;
+	price: number
 	/** 商品カテゴリ */
-	category: string;
+	category: string
 	/** 商品詳細へのリンク */
-	href: string;
+	href: string
 	/** 商品画像へのリンク */
-	thumbnail: string;
+	thumbnail: string
 }

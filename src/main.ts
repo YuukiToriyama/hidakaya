@@ -1,16 +1,15 @@
-import * as fs from 'fs/promises'
-import { CategoryDAO } from './Database/CategoryDAO'
-import { DAO } from './Database/DAO'
-import { MenuDAO } from './Database/MenuDAO'
-import { ShopDAO } from './Database/ShopDAO'
-import { fetchMenuList, fetchShopInfo, fetchShopList } from './fetch'
-import { Menu } from './Model/Menu'
+import { CategoryDAO } from './Database/CategoryDAO.ts'
+import { DAO } from './Database/DAO.ts'
+import { MenuDAO } from './Database/MenuDAO.ts'
+import { ShopDAO } from './Database/ShopDAO.ts'
+import { fetchMenuList, fetchShopInfo, fetchShopList } from './fetch.ts'
+import { Menu } from './Model/Menu.ts'
 
 const writeJSONFile = async (fileName: string, object: unknown) => {
 	try {
 		const json = JSON.stringify(object, null, '\t')
-		const byteLength = Buffer.byteLength(json)
-		await fs.writeFile(fileName, json)
+		const byteLength = new TextEncoder().encode(json).length
+		await Deno.writeTextFile(fileName, json)
 		console.log(`${fileName} was created (${byteLength} byte).`)
 	} catch (error) {
 		console.error(`Failed to write JSON file ${fileName}:`, error)
@@ -20,9 +19,9 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 
 (async () => {
 	// ディレクトリを作成
-	await fs.mkdir('./output/menu', { recursive: true })
-	await fs.mkdir('./output/shop', { recursive: true })
-	await fs.mkdir('./output/sqlite', { recursive: true })
+	await Deno.mkdir('./output/menu', { recursive: true })
+	await Deno.mkdir('./output/shop', { recursive: true })
+	await Deno.mkdir('./output/sqlite', { recursive: true })
 	// データベースへアクセス
 	const connection = new DAO('./output/sqlite/hidakaya.db').connection
 
@@ -41,13 +40,11 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 	await writeJSONFile('./output/menu/all.json', menuList)
 	// 3. hidakaya.dbにmenuテーブルを作成
 	const menuDAO = new MenuDAO(connection)
-	await menuDAO.createTable()
-	await menuDAO.insert(menuList)
-	await menuDAO.close()
+	menuDAO.createTable()
+	menuDAO.insert(menuList)
 	// 4. hidakaya.dbにcategoryテーブルを作成
 	const categoryDAO = new CategoryDAO(connection)
-	await categoryDAO.createTable()
-	await categoryDAO.close()
+	categoryDAO.createTable()
 
 	// 店舗一覧を取得
 	// 1. 店舗一覧JSONを作成
@@ -55,16 +52,17 @@ const writeJSONFile = async (fileName: string, object: unknown) => {
 	// 3. hidakaya.dbにshopテーブルを作成
 	const shopList = await fetchShopList()
 	const shopDAO = new ShopDAO(connection)
-	await shopDAO.createTable()
+	shopDAO.createTable()
 	await writeJSONFile('./output/shop/all.json', shopList)
-	const taskList = shopList.map(shop => (async () => {
-		const fileName = `./output/shop/${shop.id}.json`
-		const shopInfo = await fetchShopInfo(shop.id)
-		await writeJSONFile(fileName, shopInfo)
-		await shopDAO.insert(shopInfo)
-	})())
+	const taskList = shopList.map((shop) =>
+		(async () => {
+			const fileName = `./output/shop/${shop.id}.json`
+			const shopInfo = await fetchShopInfo(shop.id)
+			await writeJSONFile(fileName, shopInfo)
+			shopDAO.insert(shopInfo)
+		})()
+	)
 	await Promise.all(taskList)
-	await shopDAO.close()
 
 	connection.close()
 })()

@@ -1,0 +1,23 @@
+{
+	"tasks": {
+		"dev": "deno run --allow-net=hidakaya.hiday.co.jp --allow-env --allow-read=output --allow-write=output src/main.ts"
+	},
+	"imports": {
+	},
+	"fmt": {
+        "include": [
+            "src/"
+        ],
+		"options": {
+			"useTabs": true,
+			"indentWidth": 4,
+			"semiColons": false,
+			"singleQuote": true
+		}
+	},
+	"lint": {
+        "include": [
+            "src/"
+        ]
+	}
+}

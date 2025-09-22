@@ -56,6 +56,13 @@
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/bc4b7269-f5ff-4bf4-89e9-d725288d62c4"
 	},
 	{
+		"name": "【期間限定】肉ニラらーめん",
+		"price": 700,
+		"category": "ラーメン",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/809-1.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/63ba9b8a-ee42-4504-854f-1d60a66c67cf"
+	},
+	{
 		"name": "野菜たっぷりタンメン",
 		"price": 620,
 		"category": "ラーメン",
@@ -593,6 +600,13 @@
 		"category": "おつまみ",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/48_2.html",
 		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/1b90c3d0-f919-4933-93ba-bb236a12cacd"
+	},
+	{
+		"name": "コリ旨！砂肝",
+		"price": 210,
+		"category": "おつまみ",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/menu/2/detail/808-2.html",
+		"thumbnail": "https://hidakaya.hiday.co.jp/hits/outimages/picture/a15ed922-2c29-4d99-a620-74d24c1845b2"
 	},
 	{
 		"name": "ドラゴンチキン",

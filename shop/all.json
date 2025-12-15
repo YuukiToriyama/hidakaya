@@ -505,6 +505,11 @@
 		"id": 165
 	},
 	{
+		"name": "日高屋大田原美原店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/659.html?takeout=",
+		"id": 659
+	},
+	{
 		"name": "日高屋上石神井南口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/203.html?takeout=",
 		"id": 203
@@ -535,14 +540,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅東口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html?takeout=",
-		"id": 188
-	},
-	{
 		"name": "日高屋川口駅西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html?takeout=",
 		"id": 197
+	},
+	{
+		"name": "日高屋川口駅東口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html?takeout=",
+		"id": 188
 	},
 	{
 		"name": "日高屋川口駅前店",

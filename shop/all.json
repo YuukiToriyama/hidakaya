@@ -540,14 +540,14 @@
 		"id": 14
 	},
 	{
-		"name": "日高屋川口駅西口店",
-		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html?takeout=",
-		"id": 197
-	},
-	{
 		"name": "日高屋川口駅東口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/188.html?takeout=",
 		"id": 188
+	},
+	{
+		"name": "日高屋川口駅西口店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/197.html?takeout=",
+		"id": 197
 	},
 	{
 		"name": "日高屋川口駅前店",
@@ -2023,6 +2023,11 @@
 		"name": "日高屋溝の口西口店",
 		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/208.html?takeout=",
 		"id": 208
+	},
+	{
+		"name": "日高屋水戸赤塚店",
+		"href": "https://hidakaya.hiday.co.jp/hits/ja/shop/99/detail/661.html?takeout=",
+		"id": 661
 	},
 	{
 		"name": "日高屋武蔵藤沢グリーンガーデン店",
